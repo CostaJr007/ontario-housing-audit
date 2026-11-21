@@ -1,0 +1,51 @@
+municipality,municipality_key,MUNID,boundary_name,method
+Ajax,ajax,18005,TOWN OF AJAX,unique_normalized_name
+Aurora,aurora,19046,TOWN OF AURORA,unique_normalized_name
+Barrie,barrie,43042,CITY OF BARRIE,unique_normalized_name
+Belleville,belleville,12005,CITY OF BELLEVILLE,unique_normalized_name
+Bradford West Gwillimbury,bradfordwestgwillimbury,43013,TOWN OF BRADFORD WEST GWILLIMBURY,unique_normalized_name
+Brampton,brampton,21010,CITY OF BRAMPTON,unique_normalized_name
+Brantford,brantford,29006,CITY OF BRANTFORD,unique_normalized_name
+Burlington,burlington,24002,CITY OF BURLINGTON,unique_normalized_name
+Caledon,caledon,21024,TOWN OF CALEDON,unique_normalized_name
+Cambridge,cambridge,30006,CITY OF CAMBRIDGE,unique_normalized_name
+Chatham-Kent,chathamkent,36003,MUNICIPALITY OF CHATHAM-KENT,unique_normalized_name
+Clarington,clarington,18017,MUNICIPALITY OF CLARINGTON,unique_normalized_name
+East Gwillimbury,eastgwillimbury,19054,TOWN OF EAST GWILLIMBURY,unique_normalized_name
+Georgina,georgina,19070,TOWN OF GEORGINA,unique_normalized_name
+Greater Sudbury,greatersudbury,53005,CITY OF GREATER SUDBURY,unique_normalized_name
+Guelph,guelph,23008,CITY OF GUELPH,unique_normalized_name
+Haldimand County,haldimandcounty,28005,HALDIMAND COUNTY,unique_normalized_name
+Halton Hills,haltonhills,24015,TOWN OF HALTON HILLS,unique_normalized_name
+Hamilton,hamilton,25005,CITY OF HAMILTON,reviewed_identifier
+Innisfil,innisfil,43017,TOWN OF INNISFIL,unique_normalized_name
+Kawartha Lakes,kawarthalakes,16002,CITY OF KAWARTHA LAKES,unique_normalized_name
+Kingston,kingston,10005,CITY OF KINGSTON,unique_normalized_name
+Kitchener,kitchener,30012,CITY OF KITCHENER,unique_normalized_name
+London,london,39036,CITY OF LONDON,unique_normalized_name
+Markham,markham,19036,CITY OF MARKHAM,unique_normalized_name
+Milton,milton,24009,TOWN OF MILTON,unique_normalized_name
+Mississauga,mississauga,21005,CITY OF MISSISSAUGA,unique_normalized_name
+New Tecumseth,newtecumseth,43025,TOWN OF NEW TECUMSETH,unique_normalized_name
+Newmarket,newmarket,19048,TOWN OF NEWMARKET,unique_normalized_name
+Niagara Falls,niagarafalls,26043,CITY OF NIAGARA FALLS,unique_normalized_name
+Norfolk County,norfolkcounty,28030,NORFOLK COUNTY,unique_normalized_name
+North Bay,northbay,48044,CITY OF NORTH BAY,unique_normalized_name
+Oakville,oakville,24001,TOWN OF OAKVILLE,unique_normalized_name
+Oshawa,oshawa,18013,CITY OF OSHAWA,unique_normalized_name
+Ottawa,ottawa,6005,CITY OF OTTAWA,unique_normalized_name
+Peterborough City,peterboroughcity,15014,CITY OF PETERBOROUGH,reviewed_identifier
+Pickering,pickering,18001,CITY OF PICKERING,unique_normalized_name
+Richmond Hill,richmondhill,19038,CITY OF RICHMOND HILL,unique_normalized_name
+Sarnia,sarnia,38030,CITY OF SARNIA,unique_normalized_name
+Sault Ste. Marie,saultstemarie,57061,CITY OF SAULT STE. MARIE,unique_normalized_name
+St. Catharines,stcatharines,26053,CITY OF ST. CATHARINES,unique_normalized_name
+Thunder Bay,thunderbay,58004,CITY OF THUNDER BAY,unique_normalized_name
+Toronto,toronto,20002,CITY OF TORONTO,unique_normalized_name
+Vaughan,vaughan,19028,CITY OF VAUGHAN,unique_normalized_name
+Waterloo,waterloo,30016,CITY OF WATERLOO,unique_normalized_name
+Welland,welland,26032,CITY OF WELLAND,unique_normalized_name
+Whitby,whitby,18009,TOWN OF WHITBY,unique_normalized_name
+Whitchurch-Stouffville,whitchurchstouffville,19044,TOWN OF WHITCHURCH-STOUFFVILLE,unique_normalized_name
+Windsor,windsor,37039,CITY OF WINDSOR,unique_normalized_name
+Woodstock,woodstock,32042,CITY OF WOODSTOCK,unique_normalized_name

@@ -1,0 +1,63 @@
+{
+  "year": 2025,
+  "reviewed_on": "2026-11-20",
+  "capture_method": "Reviewed factual records from official publications, with individual field sources; not a full provincial CSV or original document snapshot",
+  "cases": [
+    {
+      "municipality": "London",
+      "target": 4700,
+      "official_progress": 4224,
+      "award_cad": 11263707,
+      "target_source": "https://london.ca/sites/default/files/2026-02/2026-02-18%20%282.2%29%20Staff%20Report%20-%202025%20Annual%20Development%20Report.pdf",
+      "target_locator": "Annual Housing Targets: 3,917 for 2024 and 4,700 for 2025",
+      "award_source": "https://news.ontario.ca/en/release/1007695/ontario-rewards-london-with-more-than-112-million-through-the-building-faster-fund",
+      "award_published_on": "2026-07-06",
+      "reviewed_new_starts": null,
+      "reviewed_arus": null,
+      "complete_residential_breakdown": false,
+      "note": "Only the December 2025 municipal CMHC count is available here. Difference from the award count is not attributed to institutional beds."
+    },
+    {
+      "municipality": "Kitchener",
+      "target": 3500,
+      "official_progress": 3005,
+      "award_cad": 8013600,
+      "target_source": "https://www.kitchener.ca/strategic-plans-and-projects/strategic-plan/2023-2026-strategic-plan-progress/",
+      "target_locator": "Provincial annual housing target for Kitchener: 3,500 (2025)",
+      "award_source": "https://www.kitchener.ca/news/posts/kitchener-earns-8-million-from-the-building-faster-fund-for-third-consecutive-year-of-housing-target-achievement/",
+      "award_published_on": "2026-06-15",
+      "reviewed_new_starts": 2516,
+      "reviewed_arus": 489,
+      "complete_residential_breakdown": true,
+      "note": "Municipal release explicitly decomposes 3,005 into 2,516 housing starts + 489 ARUs. The archived December CMHC edition has 2,416 starts, so the 100-unit vintage difference must not be called beds."
+    },
+    {
+      "municipality": "Sarnia",
+      "target": 100,
+      "official_progress": 654,
+      "award_cad": 400000,
+      "target_source": "https://news.ontario.ca/en/release/1007629/ontario-rewards-sarnia-with-400000-through-the-building-faster-fund",
+      "target_locator": "654 units achieved 654 percent; target 100 is an exact arithmetic inference from the published count and percentage, consistent with municipal reporting",
+      "award_source": "https://news.ontario.ca/en/release/1007629/ontario-rewards-sarnia-with-400000-through-the-building-faster-fund",
+      "award_published_on": "2026-06-19",
+      "reviewed_new_starts": null,
+      "reviewed_arus": null,
+      "complete_residential_breakdown": false,
+      "note": "299 conventional starts alone already exceed the 80-unit threshold; no claim that institutional additions were necessary to qualify."
+    },
+    {
+      "municipality": "Welland",
+      "target": 430,
+      "official_progress": 528,
+      "award_cad": 1669317,
+      "target_source": "https://www.welland.ca/news/posts/city-of-welland-receives-167m-for-exceeding-housing-targets/",
+      "target_locator": "2025 performance: 528 new homes against target 430",
+      "award_source": "https://www.welland.ca/news/posts/city-of-welland-receives-167m-for-exceeding-housing-targets/",
+      "award_published_on": "2026-06-18",
+      "reviewed_new_starts": null,
+      "reviewed_arus": null,
+      "complete_residential_breakdown": false,
+      "note": "458 conventional starts alone already exceed 100% of the target. The 70-unit gap is not automatically attributed to beds."
+    }
+  ]
+}

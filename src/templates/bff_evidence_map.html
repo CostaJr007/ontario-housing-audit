@@ -1,0 +1,37 @@
+<!doctype html><html lang="en-CA"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Ontario · BFF __YEAR__ · Confirmed funding</title>
+<style>__SHARED_CSS__
+.map-panels{display:grid;grid-template-columns:32% 68%;gap:4px;align-items:start}.map-panel h2{font-size:12px;text-align:center;color:#596574;font-weight:400}.map-panel svg{height:min(70vh,850px)}.map-panel:first-child{padding-top:5vh}.legend{font-size:12px}.map-wrap{padding:18px 8px}#details{min-height:200px}.map-panel .municipality{stroke-width:.4}.map-panel .municipality:not([data-munid]){cursor:default}#details a{overflow-wrap:anywhere}@media(max-width:800px){.map-panel svg{height:52vh}.map-panel:first-child{padding-top:3vh}}
+</style>
+<header><div class="eyebrow">ONTARIO / BUILDING FASTER FUND / __YEAR__</div><h1 id="headline">Confirmed Building Faster Fund allocations</h1><p class="sub">The Building Faster Fund (BFF) was Ontario’s three-year program of up to C$1.2 billion for housing-enabling infrastructure. Its numeric funding threshold was at least 80% of the annual housing target. This map highlights the municipalities named in the October 5, 2026 funding update for 2025 performance.</p><div class="stats" id="stats"></div></header>
+<main><section class="map-wrap" aria-label="Ontario province and southern/eastern detail"><div class="map-panels"><div class="map-panel"><h2>Entire province</h2><svg id="map-province" role="img" aria-label="Entire Ontario province" viewBox="__FULL_VIEW__">__MAP_PATHS__</svg></div><div class="map-panel"><h2 id="detail-title">Southern and eastern Ontario</h2><svg id="map-south" role="img" aria-label="Southern and eastern Ontario" viewBox="__SOUTH_VIEW__">__MAP_PATHS__</svg></div></div></section>
+<aside><label for="city"><strong>Explore a confirmed allocation</strong></label><select id="city"><option value="">Choose a municipality</option></select><p><button id="reset">Reset southern/eastern view</button></p><div id="details"><h2>Select a highlighted municipality</h2><p>View its funding confirmation and official source.</p></div><div class="legend" id="legend"></div><p class="note">Allocations confirmed as of October 5, 2026. Further reviews were pending. Confirmed allocations are distinct from cash received.</p></aside></main>
+<section class="table-wrap"><h2>The 18 municipalities with confirmed allocations</h2><label for="search">Filter municipalities</label><input id="search" type="search" placeholder="Type a name"><table><thead><tr><th>Municipality</th><th>Funding status</th><th>Official source</th></tr></thead><tbody id="rows"></tbody></table></section>
+<footer>Sources: Ontario Legislature, October 5, 2026; Ontario GeoHub boundaries. Performance year: __YEAR__. Province-wide view and southern/eastern detail, EPSG:3347. Embedded offline data. Sources and join audit: data/processed/bff___YEAR__/.</footer>
+<script id="data" type="application/json">__MAP_DATA__</script><script>
+const data=JSON.parse(document.getElementById('data').textContent), province=document.getElementById('map-province'), detail=document.getElementById('map-south'), city=document.getElementById('city');
+const municipalities=Object.values(data.rows).sort((a,b)=>a.municipality.localeCompare(b.municipality,'en-CA'));
+const count=data.counts;
+document.getElementById('headline').textContent=`${count.award_confirmed} of ${count.with_targets} targeted municipalities had funding confirmed.`;
+for(const [value,label] of [[count.award_confirmed,'confirmed allocations'],[count.with_targets,'municipalities with individual targets']]){const item=document.createElement('div'),v=document.createElement('strong'),l=document.createElement('small');v.textContent=value;l.textContent=label;item.append(v,l);document.getElementById('stats').append(item);}
+for(const [key,label] of Object.entries(data.labels)){const span=document.createElement('span'),swatch=document.createElement('i');swatch.className='swatch';swatch.style.background=data.colors[key];span.append(swatch,document.createTextNode(label));document.getElementById('legend').append(span);}
+for(const row of municipalities){const opt=document.createElement('option');opt.value=row.MUNID;opt.textContent=row.municipality;city.append(opt);}
+function sourceLink(evidence){const a=document.createElement('a');a.href=evidence.url;a.textContent=evidence.source_id.startsWith('hansard_')?'Ontario Legislature · October 5, 2026':'Municipal funding announcement';a.target='_blank';a.rel='noopener';return a;}
+function display(id,zoom=true){
+  const row=data.rows[id];if(!row)return;
+  const details=document.getElementById('details');details.replaceChildren();
+  document.querySelectorAll('.selected').forEach(e=>e.classList.remove('selected'));
+  document.querySelectorAll(`[data-munid="${id}"]`).forEach(e=>e.classList.add('selected'));
+  if(zoom){const shape=detail.querySelector(`[data-munid="${id}"]`);if(shape){const b=shape.getBBox(),pad=Math.max(b.width,b.height,15)*.6;detail.setAttribute('viewBox',`${b.x-pad} ${b.y-pad} ${b.width+2*pad} ${b.height+2*pad}`);document.getElementById('detail-title').textContent='Detail: '+row.municipality;}}
+  city.value=id;const heading=document.createElement('h2');heading.textContent=row.municipality;details.append(heading);
+  const fields=[['Performance year',count.year],['Allocation','Confirmed'],['Update','October 5, 2026']];
+  if(row.award_cad!=null)fields.push(['Announced allocation','C$'+Number(row.award_cad).toLocaleString('en-CA')]);
+  const dl=document.createElement('dl');for(const [label,value] of fields){const dt=document.createElement('dt'),dd=document.createElement('dd');dt.textContent=label;dd.textContent=value;dl.append(dt,dd);}details.append(dl);
+  for(const evidence of row.evidence){const p=document.createElement('p');p.append(sourceLink(evidence));details.append(p);}
+}
+city.addEventListener('change',()=>{if(city.value)display(city.value);});
+document.getElementById('reset').addEventListener('click',()=>{detail.setAttribute('viewBox',data.southView);province.setAttribute('viewBox',data.provinceView);document.getElementById('detail-title').textContent='Southern and eastern Ontario';document.querySelectorAll('.selected').forEach(e=>e.classList.remove('selected'));city.value='';});
+for(const svg of [province,detail]){svg.addEventListener('click',event=>{const shape=event.target.closest('[data-munid]');if(shape)display(shape.dataset.munid,false);});svg.addEventListener('keydown',event=>{if(event.key==='Enter'&&event.target.dataset.munid)display(event.target.dataset.munid,false);});}
+function renderTable(){const term=document.getElementById('search').value.toLocaleLowerCase('en-CA'),body=document.getElementById('rows');body.replaceChildren();for(const row of municipalities.filter(r=>r.municipality.toLocaleLowerCase('en-CA').includes(term))){const tr=document.createElement('tr');tr.addEventListener('click',()=>display(row.MUNID));for(const value of [row.municipality,'Confirmed']){const td=document.createElement('td');td.textContent=value;tr.append(td);}const source=document.createElement('td');source.append(sourceLink(row.evidence[0]));tr.append(source);body.append(tr);}}
+document.getElementById('search').addEventListener('input',renderTable);renderTable();
+</script></html>

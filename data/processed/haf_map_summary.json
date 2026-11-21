@@ -1,0 +1,30 @@
+{
+  "source_communities": 61,
+  "municipalities_mapped": 50,
+  "indigenous_governments_outside_municipal_layer": [
+    "Aroland First Nation",
+    "Long Lake #58 First Nation",
+    "Muskrat Dam Lake First Nation",
+    "Red Rock Indian Band",
+    "Shoal Lake No.40 First Nation",
+    "Wapekeka First Nation",
+    "Webequie First Nation",
+    "Whitesand First Nation",
+    "Wunnumin First Nation",
+    "Ginoogaming First Nation",
+    "Temagami First Nation"
+  ],
+  "unresolved": [],
+  "review_cutoff": "2026-03",
+  "classification_basis": "CMHC published rounded percent of period forecast; not action-plan rating",
+  "counts": {
+    "below_forecast": 32,
+    "at_or_above_forecast": 16,
+    "terminated": 2
+  },
+  "municipalities_with_numeric_forecast_comparison": 48,
+  "below_forecast": 32,
+  "at_or_above_forecast": 16,
+  "period_description": "HAF1 second annual reviews and HAF2 first annual reviews, up to March 2026; not January-September 2026",
+  "not_a_contract_compliance_determination": true
+}

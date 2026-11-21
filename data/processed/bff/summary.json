@@ -1,0 +1,50 @@
+{
+  "year": 2024,
+  "with_targets": 50,
+  "met_80pct": 25,
+  "met_100pct": 15,
+  "below_80pct": 25,
+  "without_targets": 364,
+  "large_city_count": 10,
+  "large_city_definition": "The 10 largest annual targets; a target-size proxy, not a population ranking",
+  "large_cities_red": [
+    {
+      "municipality": "Ottawa",
+      "target": 12583,
+      "official_progress": 7871,
+      "pct": 62.552650401335136
+    },
+    {
+      "municipality": "Mississauga",
+      "target": 10000,
+      "official_progress": 3496,
+      "pct": 34.96
+    },
+    {
+      "municipality": "Brampton",
+      "target": 9417,
+      "official_progress": 5791,
+      "pct": 61.4951683126261
+    },
+    {
+      "municipality": "Hamilton",
+      "target": 3917,
+      "official_progress": 2384,
+      "pct": 60.86290528465663
+    },
+    {
+      "municipality": "Markham",
+      "target": 3667,
+      "official_progress": 2034,
+      "pct": 55.46768475593128
+    },
+    {
+      "municipality": "Vaughan",
+      "target": 3500,
+      "official_progress": 2431,
+      "pct": 69.45714285714286
+    }
+  ],
+  "classification": "Exact annual official progress / annual target >= 80%; no rounding before classification",
+  "funding_interpretation": "Numeric performance eligibility, not a verification of awards or bank transfers"
+}

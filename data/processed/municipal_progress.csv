@@ -1,0 +1,103 @@
+year,municipality,municipality_key,scope,target,official_progress,official_progress_pct,met_100pct,published_progress_pct,percentage_reconciles,published_status
+2023,Ajax,ajax,individual_target,1247,1121,89.89574979951884,False,89.9,True,On track
+2023,Aurora,aurora,individual_target,587,232,39.522998296422486,False,39.52,True,Not met
+2023,Barrie,barrie,individual_target,1687,1716,101.71902786010669,True,101.72,True,Exceeded
+2023,Belleville,belleville,individual_target,227,697,307.0484581497797,True,307.05,True,Exceeded
+2023,Bradford West Gwillimbury,bradfordwestgwillimbury,individual_target,477,254,53.24947589098532,False,53.25,True,Not met
+2023,Brampton,brampton,individual_target,8287,7028,84.80752986605526,False,84.81,True,On track
+2023,Brantford,brantford,individual_target,733,788,107.50341064120055,True,107.5,True,Exceeded
+2023,Burlington,burlington,individual_target,2127,584,27.456511518570757,False,27.46,True,Not met
+2023,Caledon,caledon,individual_target,953,778,81.63693599160545,False,81.64,True,On track
+2023,Cambridge,cambridge,individual_target,1393,1220,87.58076094759512,False,87.58,True,On track
+2023,Chatham-Kent,chathamkent,individual_target,81,522,644.4444444444445,True,644.44,True,Exceeded
+2023,Clarington,clarington,individual_target,953,547,57.39769150052466,False,57.4,True,Not met
+2023,East Gwillimbury,eastgwillimbury,individual_target,315,190,60.317460317460316,False,60.32,True,Not met
+2023,Georgina,georgina,individual_target,455,419,92.08791208791209,False,92.09,True,On track
+2023,Greater Sudbury,greatersudbury,individual_target,279,436,156.27240143369175,True,156.27,True,Exceeded
+2023,Guelph,guelph,individual_target,1320,1177,89.16666666666667,False,89.17,True,On track
+2023,Haldimand County,haldimandcounty,individual_target,308,192,62.33766233766234,False,62.34,True,Not met
+2023,Halton Hills,haltonhills,individual_target,697,144,20.65997130559541,False,20.66,True,Not met
+2023,Hamilton,hamilton,individual_target,3447,4142,120.16246011024079,True,120.16,True,Exceeded
+2023,Innisfil,innisfil,individual_target,462,738,159.74025974025975,True,159.74,True,Exceeded
+2023,Kawartha Lakes,kawarthalakes,individual_target,477,470,98.53249475890985,False,98.53,True,On track
+2023,Kingston,kingston,individual_target,587,1465,249.57410562180578,True,249.57,True,Exceeded
+2023,Kitchener,kitchener,individual_target,2567,3579,139.42345149980522,True,139.42,True,Exceeded
+2023,London,london,individual_target,3447,1804,52.335364084711344,False,52.34,True,Not met
+2023,Markham,markham,individual_target,3227,1472,45.615122404710256,False,45.62,True,Not met
+2023,Milton,milton,individual_target,1540,1952,126.75324675324676,True,126.75,True,Exceeded
+2023,Mississauga,mississauga,individual_target,8800,3470,39.43181818181818,False,39.43,True,Not met
+2023,New Tecumseth,newtecumseth,individual_target,469,101,21.535181236673775,False,21.54,True,Not met
+2023,Newmarket,newmarket,individual_target,880,286,32.5,False,32.5,True,Not met
+2023,Niagara Falls,niagarafalls,individual_target,587,471,80.23850085178876,False,80.24,True,On track
+2023,Norfolk County,norfolkcounty,individual_target,418,269,64.35406698564593,False,64.35,True,Not met
+2023,North Bay,northbay,individual_target,73,202,276.71232876712327,True,276.71,True,Exceeded
+2023,Oakville,oakville,individual_target,2420,1941,80.20661157024793,False,80.21,True,On track
+2023,Oshawa,oshawa,individual_target,1687,1135,67.27919383521044,False,67.28,True,Not met
+2023,Ottawa,ottawa,individual_target,11073,10313,93.13645805111533,False,93.14,True,On track
+2023,Peterborough City,peterboroughcity,individual_target,345,506,146.66666666666666,True,146.67,True,Exceeded
+2023,Pickering,pickering,individual_target,953,1502,157.60755508919203,True,157.61,True,Exceeded
+2023,Richmond Hill,richmondhill,individual_target,1980,769,38.83838383838384,False,38.84,True,Not met
+2023,Sarnia,sarnia,individual_target,73,254,347.94520547945206,True,347.95,True,Exceeded
+2023,Sault Ste. Marie,saultstemarie,individual_target,110,213,193.63636363636363,True,193.64,True,Exceeded
+2023,St. Catharines,stcatharines,individual_target,807,648,80.29739776951673,False,80.3,True,On track
+2023,Thunder Bay,thunderbay,individual_target,161,200,124.22360248447205,True,124.22,True,Exceeded
+2023,Toronto,toronto,individual_target,20900,31656,151.4641148325359,True,151.46,True,Exceeded
+2023,Vaughan,vaughan,individual_target,3080,1863,60.48701298701299,False,60.49,True,Not met
+2023,Waterloo,waterloo,individual_target,1173,635,54.13469735720375,False,54.13,True,Not met
+2023,Welland,welland,individual_target,315,868,275.55555555555554,True,275.56,True,Exceeded
+2023,Whitby,whitby,individual_target,1320,1159,87.8030303030303,False,87.8,True,On track
+2023,Whitchurch-Stouffville,whitchurchstouffville,individual_target,477,1141,239.20335429769392,True,239.2,True,Exceeded
+2023,Windsor,windsor,individual_target,953,346,36.306400839454355,False,36.31,True,Not met
+2023,Woodstock,woodstock,individual_target,403,475,117.86600496277916,True,117.87,True,Exceeded
+2023,Municipalities without targets,municipalitieswithouttargets,aggregate_without_individual_targets,12663,16237,128.22395956724316,True,128.2,False,Not applicable
+2024,Ajax,ajax,individual_target,1417,270,19.054340155257588,False,19.05,True,Not met
+2024,Aurora,aurora,individual_target,667,189,28.33583208395802,False,28.34,True,Not met
+2024,Barrie,barrie,individual_target,1917,1459,76.10850286906624,False,76.11,True,Not met
+2024,Belleville,belleville,individual_target,258,250,96.89922480620154,False,96.9,True,On track
+2024,Bradford West Gwillimbury,bradfordwestgwillimbury,individual_target,542,263,48.5239852398524,False,48.52,True,Not met
+2024,Brampton,brampton,individual_target,9417,5791,61.4951683126261,False,61.5,True,Not met
+2024,Brantford,brantford,individual_target,833,372,44.657863145258105,False,44.66,True,Not met
+2024,Burlington,burlington,individual_target,2417,1185,49.027720314439385,False,49.03,True,Not met
+2024,Caledon,caledon,individual_target,1083,715,66.02031394275161,False,66.02,True,Not met
+2024,Cambridge,cambridge,individual_target,1583,741,46.80985470625395,False,46.81,True,Not met
+2024,Chatham-Kent,chathamkent,individual_target,92,311,338.04347826086956,True,338.04,True,Exceeded
+2024,Clarington,clarington,individual_target,1083,899,83.0101569713758,False,83.01,True,On track
+2024,East Gwillimbury,eastgwillimbury,individual_target,358,328,91.62011173184358,False,91.62,True,On track
+2024,Georgina,georgina,individual_target,517,417,80.65764023210832,False,80.66,True,On track
+2024,Greater Sudbury,greatersudbury,individual_target,317,840,264.9842271293375,True,264.98,True,Exceeded
+2024,Guelph,guelph,individual_target,1500,1279,85.26666666666667,False,85.27,True,On track
+2024,Haldimand County,haldimandcounty,individual_target,350,310,88.57142857142857,False,88.57,True,On track
+2024,Halton Hills,haltonhills,individual_target,792,293,36.994949494949495,False,36.99,True,Not met
+2024,Hamilton,hamilton,individual_target,3917,2384,60.86290528465663,False,60.86,True,Not met
+2024,Innisfil,innisfil,individual_target,525,309,58.857142857142854,False,58.86,True,Not met
+2024,Kawartha Lakes,kawarthalakes,individual_target,542,451,83.21033210332104,False,83.21,True,On track
+2024,Kingston,kingston,individual_target,667,966,144.82758620689654,True,144.83,True,Exceeded
+2024,Kitchener,kitchener,individual_target,2917,3067,105.14226945491944,True,105.14,True,Exceeded
+2024,London,london,individual_target,3917,3723,95.04723002297676,False,95.05,True,On track
+2024,Markham,markham,individual_target,3667,2034,55.46768475593128,False,55.47,True,Not met
+2024,Milton,milton,individual_target,1750,2260,129.14285714285714,True,129.14,True,Exceeded
+2024,Mississauga,mississauga,individual_target,10000,3496,34.96,False,34.96,True,Not met
+2024,New Tecumseth,newtecumseth,individual_target,533,251,47.091932457786115,False,47.09,True,Not met
+2024,Newmarket,newmarket,individual_target,1000,223,22.3,False,22.3,True,Not met
+2024,Niagara Falls,niagarafalls,individual_target,667,774,116.04197901049476,True,116.04,True,Exceeded
+2024,Norfolk County,norfolkcounty,individual_target,475,189,39.78947368421053,False,39.79,True,Not met
+2024,North Bay,northbay,individual_target,83,398,479.51807228915663,True,479.52,True,Exceeded
+2024,Oakville,oakville,individual_target,2750,3679,133.78181818181818,True,133.78,True,Exceeded
+2024,Oshawa,oshawa,individual_target,1917,949,49.50443401147626,False,49.5,True,Not met
+2024,Ottawa,ottawa,individual_target,12583,7871,62.552650401335136,False,62.55,True,Not met
+2024,Peterborough City,peterboroughcity,individual_target,392,294,75.0,False,75.0,True,Not met
+2024,Pickering,pickering,individual_target,1083,1880,173.59187442289937,True,173.59,True,Exceeded
+2024,Richmond Hill,richmondhill,individual_target,2250,912,40.53333333333333,False,40.53,True,Not met
+2024,Sarnia,sarnia,individual_target,83,164,197.59036144578315,True,197.59,True,Exceeded
+2024,Sault Ste. Marie,saultstemarie,individual_target,125,189,151.2,True,151.2,True,Exceeded
+2024,St. Catharines,stcatharines,individual_target,917,782,85.27808069792803,False,85.28,True,On track
+2024,Thunder Bay,thunderbay,individual_target,183,262,143.1693989071038,True,143.17,True,Exceeded
+2024,Toronto,toronto,individual_target,23750,20999,88.41684210526316,False,88.42,True,On track
+2024,Vaughan,vaughan,individual_target,3500,2431,69.45714285714286,False,69.46,True,Not met
+2024,Waterloo,waterloo,individual_target,1333,1722,129.18229557389347,True,129.18,True,Exceeded
+2024,Welland,welland,individual_target,358,408,113.96648044692738,True,113.97,True,Exceeded
+2024,Whitby,whitby,individual_target,1500,627,41.8,False,41.8,True,Not met
+2024,Whitchurch-Stouffville,whitchurchstouffville,individual_target,542,60,11.07011070110701,False,11.07,True,Not met
+2024,Windsor,windsor,individual_target,1083,2306,212.92705447830102,True,212.93,True,Exceeded
+2024,Woodstock,woodstock,individual_target,458,134,29.25764192139738,False,29.26,True,Not met
+2024,Municipalities without targets,municipalitieswithouttargets,aggregate_without_individual_targets,14390,12802,88.96455872133426,False,88.96,True,Not applicable

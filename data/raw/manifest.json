@@ -1,0 +1,144 @@
+{
+  "ontario/catalogue.json": {
+    "url": "https://data.ontario.ca/api/3/action/package_show?id=ontario-s-housing-supply-progress",
+    "retrieved_at_utc": "2026-11-20T21:04:18.381164+00:00",
+    "sha256": "47c5585119e1172fb6549d3c28ea7ddf1ae0e3f7e82918f011402b984f6897c0",
+    "bytes": 49452
+  },
+  "ontario/housing_2023.csv": {
+    "url": "https://data.ontario.ca/dataset/77ac513f-a65a-4cf0-b889-31be6ddb6f46/resource/c922b5b4-9850-40c8-b905-afc3aaa347c0/download/ontarios_housing_supply_-_january_december_2023_-_en.csv",
+    "retrieved_at_utc": "2026-11-20T21:04:18.475564+00:00",
+    "sha256": "5599bb328432ebedc48d1d9f38c37882496793d410af06c2a34484ae0e251e45",
+    "bytes": 2603
+  },
+  "ontario/housing_2024.csv": {
+    "url": "https://data.ontario.ca/dataset/77ac513f-a65a-4cf0-b889-31be6ddb6f46/resource/3bb04ba5-2445-44e0-9d2c-8a25dd1b18e6/download/ontarios_housing_supply_-_january_december_2024_-_en.csv",
+    "retrieved_at_utc": "2026-11-20T21:04:18.567459+00:00",
+    "sha256": "7fdbc6e99f577f751dd458de22f2b63d6c7fbe092bc14ad73f44e57388fbca9a",
+    "bytes": 2600
+  },
+  "geohub/item.json": {
+    "url": "https://www.arcgis.com/sharing/rest/content/items/64fb702e16204c3e88b528d9759f1174?f=json",
+    "retrieved_at_utc": "2026-11-20T21:04:18.646836+00:00",
+    "sha256": "5e78a635e6dd600620e0c2496de47f61cd7b1cf7790e7481a7024d79bf5acfd8",
+    "bytes": 3793
+  },
+  "geohub/layer.json": {
+    "url": "https://ws.lioservices.lrc.gov.on.ca/arcgis2/rest/services/LIO_OPEN_DATA/LIO_Open03/MapServer/14?f=json",
+    "retrieved_at_utc": "2026-11-20T21:04:18.885368+00:00",
+    "sha256": "ca30297fecbe863bf4dc121f4e9f0a78262f5e8411da573570bd11739efb98bb",
+    "bytes": 6047
+  },
+  "geohub/count.json": {
+    "url": "https://ws.lioservices.lrc.gov.on.ca/arcgis2/rest/services/LIO_OPEN_DATA/LIO_Open03/MapServer/14/query?where=1%3D1&returnCountOnly=true&f=json",
+    "retrieved_at_utc": "2026-11-20T21:04:19.126401+00:00",
+    "sha256": "454c041a732d96f26e1e2bc1b5e500e80cf068cea5c5a2149982dc96e48b3554",
+    "bytes": 13
+  },
+  "geohub/municipalities.geojson": {
+    "url": "https://ws.lioservices.lrc.gov.on.ca/arcgis2/rest/services/LIO_OPEN_DATA/LIO_Open03/MapServer/14/query?where=1%3D1&outFields=%2A&returnGeometry=true&outSR=4326&geometryPrecision=4&maxAllowableOffset=0.001&f=geojson",
+    "retrieved_at_utc": "2026-11-20T21:04:29.991774+00:00",
+    "sha256": "b28b0f2ff45ff5c7baf267aaaae9617dae6265dcd022e4a60fc8c42a842caa34",
+    "bytes": 5967371
+  },
+  "funding/windsor_council_2024.pdf": {
+    "url": "https://www.citywindsor.ca/documents/city-hall/city-council-meetings/Council%202024/07-22-2024/Consolidated%20Agenda.pdf",
+    "retrieved_at_utc": "2026-11-20T22:50:37.658361+00:00",
+    "sha256": "c009bf0b67a3fd81b3a8f5995ebd322c26bc37762552c3ff497bcaf50f548136",
+    "bytes": 8124372
+  },
+  "funding/oakville_whitepaper_2025.pdf": {
+    "url": "https://www.oakville.ca/getmedia/c9396413-a287-42f8-b649-b5e568e5a454/planning-housing-planning-act-tools-development-affordable-housing.pdf",
+    "retrieved_at_utc": "2026-11-20T22:50:38.165416+00:00",
+    "sha256": "fe78c2628576a84d67e67950011c43debb40031021237a43fcf23b4579f882a4",
+    "bytes": 4157257
+  },
+  "funding/cmhc_reductions_2026.html": {
+    "url": "https://www.cmhc-schl.gc.ca/media-newsroom/news-releases/2026/updates-housing-accelerator-fund-agreements",
+    "retrieved_at_utc": "2026-11-20T22:50:38.539427+00:00",
+    "sha256": "cb8e1630d08a19e924c54b763a9d32de5972957e3051bb5b60dcc5d70182f3de",
+    "bytes": 79462
+  },
+  "funding/cmhc_tecumseh_2026.html": {
+    "url": "https://www.cmhc-schl.gc.ca/media-newsroom/news-releases/2026/update-housing-accelerator-fund-agreement-tecumseh",
+    "retrieved_at_utc": "2026-11-20T22:50:38.944779+00:00",
+    "sha256": "1de9d1f07a7d4bbfc894fa9bb38df399ff3702bea54a1cc409746a9e8516e95a",
+    "bytes": 79107
+  },
+  "funding/cmhc_haf_rules_2026.html": {
+    "url": "https://www.cmhc-schl.gc.ca/media-newsroom/news-releases/2026/tracking-progress-housing-accelerator-fund",
+    "retrieved_at_utc": "2026-11-20T22:50:39.333318+00:00",
+    "sha256": "3e7bc6a90d496155b0d4f1072e1949d62134e65446fad54d9a2611a0ef0fef71",
+    "bytes": 79885
+  },
+  "statcan/34100292_metadata.json": {
+    "url": "https://www150.statcan.gc.ca/t1/wds/rest/getCubeMetadata",
+    "http_method": "POST",
+    "request_body": "[{\"productId\":34100292}]",
+    "retrieved_at_utc": "2026-11-20T22:59:11.7335859Z",
+    "sha256": "8239690de7169c7b609ab0ee4067b5448452f43074d8566225e07af34228251b",
+    "bytes": 65459
+  },
+  "haf/ontario_intake_2023.html": {
+    "url": "https://www.cmhc-schl.gc.ca/api/sitecore/HAFReport/HAFReportFilter",
+    "http_method": "POST",
+    "request_parameters": {
+      "Round": "{74AFF66B-77DF-4C0A-9C5B-28B9FB46EFCA}",
+      "Province": "{8FFC3CB1-EAE5-4FF1-8E97-E5CB7887E8CA}",
+      "Stream": "",
+      "Order": "",
+      "language": "en"
+    },
+    "source_page": "https://www.cmhc-schl.gc.ca/professionals/project-funding-and-mortgage-financing/funding-programs/all-funding-programs/housing-accelerator-fund/housing-accelerator-fund-rounds-data/province?round=%7B74AFF66B-77DF-4C0A-9C5B-28B9FB46EFCA%7D&province=%7B8FFC3CB1-EAE5-4FF1-8E97-E5CB7887E8CA%7D",
+    "review_cutoff": "2026-03",
+    "retrieved_at_utc": "2026-11-20T23:22:53.104773+00:00",
+    "sha256": "ab7297e7395f5e593cf4c49fcea80e4d025af25de4fb8441b554637076a55580",
+    "bytes": 35166
+  },
+  "haf/ontario_intake_2024.html": {
+    "url": "https://www.cmhc-schl.gc.ca/api/sitecore/HAFReport/HAFReportFilter",
+    "http_method": "POST",
+    "request_parameters": {
+      "Round": "{F75AD4D3-A1CB-4341-9736-788407A56DE9}",
+      "Province": "{2DBEFFBC-DECD-405F-A870-A69AE5BA689B}",
+      "Stream": "",
+      "Order": "",
+      "language": "en"
+    },
+    "source_page": "https://www.cmhc-schl.gc.ca/professionals/project-funding-and-mortgage-financing/funding-programs/all-funding-programs/housing-accelerator-fund/housing-accelerator-fund-rounds-data/province?round=%7BF75AD4D3-A1CB-4341-9736-788407A56DE9%7D&province=%7B2DBEFFBC-DECD-405F-A870-A69AE5BA689B%7D",
+    "review_cutoff": "2026-03",
+    "retrieved_at_utc": "2026-11-20T23:23:23.761096+00:00",
+    "sha256": "9bd6b9f292acbac5e62e19ade39cf13fd0300bdf4473fb8755fda8c4a0592bcf",
+    "bytes": 16729
+  },
+  "geohub/province.geojson": {
+    "url": "https://ws.lioservices.lrc.gov.on.ca/arcgis2/rest/services/LIO_OPEN_DATA/LIO_Open03/MapServer/0/query?where=1%3D1&outFields=OFFICIAL_NAME&outSR=4326&returnGeometry=true&geometryPrecision=4&maxAllowableOffset=0.005&f=geojson",
+    "retrieved_at_utc": "2026-11-20T23:26:57.991790+00:00",
+    "sha256": "d0cdee03ff91f9d78b9cc2e0a20f7c5111aac5696a18615145ed204ce4de1bb0",
+    "bytes": 14356
+  },
+  "bff_evidence/welland_2026_06_18.html": {
+    "url": "https://www.welland.ca/news/posts/city-of-welland-receives-167m-for-exceeding-housing-targets/",
+    "retrieved_at_utc": "2026-11-21T00:17:59.417525+00:00",
+    "sha256": "78faa976aae7db373f9b061cc63105e5987fc669c5cff93e1161fc7a63039a02",
+    "bytes": 45584
+  },
+  "bff_evidence/toronto_2025_q4.pdf": {
+    "url": "https://www.toronto.ca/wp-content/uploads/2026/06/96a6-city-planning-municipal-housing-target-dashboard-Q4-25.pdf",
+    "retrieved_at_utc": "2026-11-21T00:17:59.680848+00:00",
+    "sha256": "cfd2726a6821006348b59c100e6674e8595822a499c2f098ce0efa99ab8a4183",
+    "bytes": 150361
+  },
+  "cmhc/csd_december_2025.xlsx": {
+    "url": "https://assets.cmhc-schl.gc.ca/sites/cmhc/professional/housing-markets-data-and-research/housing-data-tables/housing-market-data/housing-information-monthly/2025/december/starts-completions-under-construction-12-25-en.xlsx",
+    "retrieved_at_utc": "2026-11-21T00:45:10.405701+00:00",
+    "sha256": "fb3c107e3d0e308ed3d7b7d92f03f621aaa308cf7629d1288caeca27fa49964f",
+    "bytes": 142112
+  },
+  "public_accounts/payments_2025_26_en.csv": {
+    "url": "https://data.ontario.ca/dataset/56c9a95f-c7b6-40ee-a4b8-d2343e51c83d/resource/3ab37bb7-4f51-4d90-951b-b9d566f65898/download/tbs-public-accounts-detailed-schedule-payments-2025-26-en.csv",
+    "retrieved_at_utc": "2026-11-21T01:14:19.553357+00:00",
+    "sha256": "34bbc93313a11295a892b82099ce75f51a7cb40e80935970bb7960a2a8177923",
+    "bytes": 2001766
+  }
+}

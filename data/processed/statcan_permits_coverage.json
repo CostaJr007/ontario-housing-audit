@@ -1,0 +1,35 @@
+﻿{
+    "table_id":  "34-10-0292-01",
+    "title":  "Building permits, by type of structure and type of work",
+    "start":  "2018-01-01",
+    "latest_period":  "2026-09-01",
+    "geography_count":  66,
+    "geography_levels":  [
+                             0,
+                             2,
+                             503,
+                             504,
+                             505
+                         ],
+    "toronto":  {
+                    "memberId":  45,
+                    "parentMemberId":  30,
+                    "memberNameEn":  "Toronto, Ontario",
+                    "memberNameFr":  "Toronto, Ontario",
+                    "classificationCode":  "535",
+                    "classificationTypeCode":  "1",
+                    "geoLevel":  503,
+                    "vintage":  2011,
+                    "terminated":  0,
+                    "memberUomCode":  null
+                },
+    "variables":  [
+                      "Value of permits",
+                      "Number of dwelling-units created",
+                      "Number of dwelling-units lost",
+                      "Number of dwelling-units demolished",
+                      "Number of permits"
+                  ],
+    "unit":  "Metadata only; no municipal outcome extracted",
+    "source_snapshot":  "data/raw/statcan/34100292_metadata.json"
+}

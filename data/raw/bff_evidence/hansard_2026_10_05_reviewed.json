@@ -1,0 +1,19 @@
+{
+  "snapshot_kind": "reviewed_factual_extract",
+  "source_url": "https://www.ola.org/en/legislative-business/committees/heritage-infrastructure-cultural-policy/parliament-44/transcripts/committee-transcript-2026-oct-05",
+  "source_date": "2026-10-05",
+  "reviewed_on": "2026-11-20",
+  "performance_year": 2025,
+  "year_interpretation": "The testimony identifies the final year of the three-year BFF, i.e. 2025. Welland's June 2026 release independently identifies its third allocation as based on 2025 performance.",
+  "program_cohort_count": 50,
+  "confirmed_award_count": 18,
+  "confirmed_award_municipalities": [
+    "Belleville", "Brantford", "Chatham-Kent", "Greater Sudbury", "Kingston",
+    "Kitchener", "London", "Milton", "North Bay", "Peterborough City", "Pickering",
+    "Richmond Hill", "Sarnia", "Sault Ste. Marie", "St. Catharines", "Thunder Bay",
+    "Waterloo", "Welland"
+  ],
+  "additional_reviews_pending": true,
+  "final_award_list": false,
+  "note": "A confirmed allocation is not proof of a bank transfer. Absence from this list is not proof of ineligibility. Names and counts transcribed from the official testimony; no target or progress amounts inferred."
+}

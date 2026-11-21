@@ -1,0 +1,1100 @@
+[
+  {
+    "municipality": "Ajax",
+    "municipality_key": "ajax",
+    "scope": "individual_target",
+    "year": 2025,
+    "target": null,
+    "official_progress": null,
+    "official_progress_pct": null,
+    "award_confirmed": false,
+    "award_cad": null,
+    "met_100pct": null,
+    "source_ids": [],
+    "evidence": [],
+    "MUNID": "18005",
+    "boundary_name": "TOWN OF AJAX",
+    "category": "unknown",
+    "met_80pct": null
+  },
+  {
+    "municipality": "Aurora",
+    "municipality_key": "aurora",
+    "scope": "individual_target",
+    "year": 2025,
+    "target": null,
+    "official_progress": null,
+    "official_progress_pct": null,
+    "award_confirmed": false,
+    "award_cad": null,
+    "met_100pct": null,
+    "source_ids": [],
+    "evidence": [],
+    "MUNID": "19046",
+    "boundary_name": "TOWN OF AURORA",
+    "category": "unknown",
+    "met_80pct": null
+  },
+  {
+    "municipality": "Barrie",
+    "municipality_key": "barrie",
+    "scope": "individual_target",
+    "year": 2025,
+    "target": null,
+    "official_progress": null,
+    "official_progress_pct": null,
+    "award_confirmed": false,
+    "award_cad": null,
+    "met_100pct": null,
+    "source_ids": [],
+    "evidence": [],
+    "MUNID": "43042",
+    "boundary_name": "CITY OF BARRIE",
+    "category": "unknown",
+    "met_80pct": null
+  },
+  {
+    "municipality": "Belleville",
+    "municipality_key": "belleville",
+    "scope": "individual_target",
+    "year": 2025,
+    "target": null,
+    "official_progress": null,
+    "official_progress_pct": null,
+    "award_confirmed": true,
+    "award_cad": null,
+    "met_100pct": null,
+    "source_ids": [
+      "hansard_2026_10_05"
+    ],
+    "evidence": [
+      {
+        "source_id": "hansard_2026_10_05",
+        "url": "https://www.ola.org/en/legislative-business/committees/heritage-infrastructure-cultural-policy/parliament-44/transcripts/committee-transcript-2026-oct-05",
+        "locator": "Martha Greenberg responses on Building Faster Fund; PDF page 13, printed HE-607",
+        "published_on": "2026-10-05",
+        "note": "Official transcript read through web research. Direct HTML/PDF requests returned HTTP 403. This is a reviewed factual extract, not a full original document snapshot."
+      }
+    ],
+    "MUNID": "12005",
+    "boundary_name": "CITY OF BELLEVILLE",
+    "category": "award_confirmed",
+    "met_80pct": null
+  },
+  {
+    "municipality": "Bradford West Gwillimbury",
+    "municipality_key": "bradfordwestgwillimbury",
+    "scope": "individual_target",
+    "year": 2025,
+    "target": null,
+    "official_progress": null,
+    "official_progress_pct": null,
+    "award_confirmed": false,
+    "award_cad": null,
+    "met_100pct": null,
+    "source_ids": [],
+    "evidence": [],
+    "MUNID": "43013",
+    "boundary_name": "TOWN OF BRADFORD WEST GWILLIMBURY",
+    "category": "unknown",
+    "met_80pct": null
+  },
+  {
+    "municipality": "Brampton",
+    "municipality_key": "brampton",
+    "scope": "individual_target",
+    "year": 2025,
+    "target": null,
+    "official_progress": null,
+    "official_progress_pct": null,
+    "award_confirmed": false,
+    "award_cad": null,
+    "met_100pct": null,
+    "source_ids": [],
+    "evidence": [],
+    "MUNID": "21010",
+    "boundary_name": "CITY OF BRAMPTON",
+    "category": "unknown",
+    "met_80pct": null
+  },
+  {
+    "municipality": "Brantford",
+    "municipality_key": "brantford",
+    "scope": "individual_target",
+    "year": 2025,
+    "target": null,
+    "official_progress": null,
+    "official_progress_pct": null,
+    "award_confirmed": true,
+    "award_cad": null,
+    "met_100pct": null,
+    "source_ids": [
+      "hansard_2026_10_05"
+    ],
+    "evidence": [
+      {
+        "source_id": "hansard_2026_10_05",
+        "url": "https://www.ola.org/en/legislative-business/committees/heritage-infrastructure-cultural-policy/parliament-44/transcripts/committee-transcript-2026-oct-05",
+        "locator": "Martha Greenberg responses on Building Faster Fund; PDF page 13, printed HE-607",
+        "published_on": "2026-10-05",
+        "note": "Official transcript read through web research. Direct HTML/PDF requests returned HTTP 403. This is a reviewed factual extract, not a full original document snapshot."
+      }
+    ],
+    "MUNID": "29006",
+    "boundary_name": "CITY OF BRANTFORD",
+    "category": "award_confirmed",
+    "met_80pct": null
+  },
+  {
+    "municipality": "Burlington",
+    "municipality_key": "burlington",
+    "scope": "individual_target",
+    "year": 2025,
+    "target": null,
+    "official_progress": null,
+    "official_progress_pct": null,
+    "award_confirmed": false,
+    "award_cad": null,
+    "met_100pct": null,
+    "source_ids": [],
+    "evidence": [],
+    "MUNID": "24002",
+    "boundary_name": "CITY OF BURLINGTON",
+    "category": "unknown",
+    "met_80pct": null
+  },
+  {
+    "municipality": "Caledon",
+    "municipality_key": "caledon",
+    "scope": "individual_target",
+    "year": 2025,
+    "target": null,
+    "official_progress": null,
+    "official_progress_pct": null,
+    "award_confirmed": false,
+    "award_cad": null,
+    "met_100pct": null,
+    "source_ids": [],
+    "evidence": [],
+    "MUNID": "21024",
+    "boundary_name": "TOWN OF CALEDON",
+    "category": "unknown",
+    "met_80pct": null
+  },
+  {
+    "municipality": "Cambridge",
+    "municipality_key": "cambridge",
+    "scope": "individual_target",
+    "year": 2025,
+    "target": null,
+    "official_progress": null,
+    "official_progress_pct": null,
+    "award_confirmed": false,
+    "award_cad": null,
+    "met_100pct": null,
+    "source_ids": [],
+    "evidence": [],
+    "MUNID": "30006",
+    "boundary_name": "CITY OF CAMBRIDGE",
+    "category": "unknown",
+    "met_80pct": null
+  },
+  {
+    "municipality": "Chatham-Kent",
+    "municipality_key": "chathamkent",
+    "scope": "individual_target",
+    "year": 2025,
+    "target": null,
+    "official_progress": null,
+    "official_progress_pct": null,
+    "award_confirmed": true,
+    "award_cad": null,
+    "met_100pct": null,
+    "source_ids": [
+      "hansard_2026_10_05"
+    ],
+    "evidence": [
+      {
+        "source_id": "hansard_2026_10_05",
+        "url": "https://www.ola.org/en/legislative-business/committees/heritage-infrastructure-cultural-policy/parliament-44/transcripts/committee-transcript-2026-oct-05",
+        "locator": "Martha Greenberg responses on Building Faster Fund; PDF page 13, printed HE-607",
+        "published_on": "2026-10-05",
+        "note": "Official transcript read through web research. Direct HTML/PDF requests returned HTTP 403. This is a reviewed factual extract, not a full original document snapshot."
+      }
+    ],
+    "MUNID": "36003",
+    "boundary_name": "MUNICIPALITY OF CHATHAM-KENT",
+    "category": "award_confirmed",
+    "met_80pct": null
+  },
+  {
+    "municipality": "Clarington",
+    "municipality_key": "clarington",
+    "scope": "individual_target",
+    "year": 2025,
+    "target": null,
+    "official_progress": null,
+    "official_progress_pct": null,
+    "award_confirmed": false,
+    "award_cad": null,
+    "met_100pct": null,
+    "source_ids": [],
+    "evidence": [],
+    "MUNID": "18017",
+    "boundary_name": "MUNICIPALITY OF CLARINGTON",
+    "category": "unknown",
+    "met_80pct": null
+  },
+  {
+    "municipality": "East Gwillimbury",
+    "municipality_key": "eastgwillimbury",
+    "scope": "individual_target",
+    "year": 2025,
+    "target": null,
+    "official_progress": null,
+    "official_progress_pct": null,
+    "award_confirmed": false,
+    "award_cad": null,
+    "met_100pct": null,
+    "source_ids": [],
+    "evidence": [],
+    "MUNID": "19054",
+    "boundary_name": "TOWN OF EAST GWILLIMBURY",
+    "category": "unknown",
+    "met_80pct": null
+  },
+  {
+    "municipality": "Georgina",
+    "municipality_key": "georgina",
+    "scope": "individual_target",
+    "year": 2025,
+    "target": null,
+    "official_progress": null,
+    "official_progress_pct": null,
+    "award_confirmed": false,
+    "award_cad": null,
+    "met_100pct": null,
+    "source_ids": [],
+    "evidence": [],
+    "MUNID": "19070",
+    "boundary_name": "TOWN OF GEORGINA",
+    "category": "unknown",
+    "met_80pct": null
+  },
+  {
+    "municipality": "Greater Sudbury",
+    "municipality_key": "greatersudbury",
+    "scope": "individual_target",
+    "year": 2025,
+    "target": null,
+    "official_progress": null,
+    "official_progress_pct": null,
+    "award_confirmed": true,
+    "award_cad": null,
+    "met_100pct": null,
+    "source_ids": [
+      "hansard_2026_10_05"
+    ],
+    "evidence": [
+      {
+        "source_id": "hansard_2026_10_05",
+        "url": "https://www.ola.org/en/legislative-business/committees/heritage-infrastructure-cultural-policy/parliament-44/transcripts/committee-transcript-2026-oct-05",
+        "locator": "Martha Greenberg responses on Building Faster Fund; PDF page 13, printed HE-607",
+        "published_on": "2026-10-05",
+        "note": "Official transcript read through web research. Direct HTML/PDF requests returned HTTP 403. This is a reviewed factual extract, not a full original document snapshot."
+      }
+    ],
+    "MUNID": "53005",
+    "boundary_name": "CITY OF GREATER SUDBURY",
+    "category": "award_confirmed",
+    "met_80pct": null
+  },
+  {
+    "municipality": "Guelph",
+    "municipality_key": "guelph",
+    "scope": "individual_target",
+    "year": 2025,
+    "target": null,
+    "official_progress": null,
+    "official_progress_pct": null,
+    "award_confirmed": false,
+    "award_cad": null,
+    "met_100pct": null,
+    "source_ids": [],
+    "evidence": [],
+    "MUNID": "23008",
+    "boundary_name": "CITY OF GUELPH",
+    "category": "unknown",
+    "met_80pct": null
+  },
+  {
+    "municipality": "Haldimand County",
+    "municipality_key": "haldimandcounty",
+    "scope": "individual_target",
+    "year": 2025,
+    "target": null,
+    "official_progress": null,
+    "official_progress_pct": null,
+    "award_confirmed": false,
+    "award_cad": null,
+    "met_100pct": null,
+    "source_ids": [],
+    "evidence": [],
+    "MUNID": "28005",
+    "boundary_name": "HALDIMAND COUNTY",
+    "category": "unknown",
+    "met_80pct": null
+  },
+  {
+    "municipality": "Halton Hills",
+    "municipality_key": "haltonhills",
+    "scope": "individual_target",
+    "year": 2025,
+    "target": null,
+    "official_progress": null,
+    "official_progress_pct": null,
+    "award_confirmed": false,
+    "award_cad": null,
+    "met_100pct": null,
+    "source_ids": [],
+    "evidence": [],
+    "MUNID": "24015",
+    "boundary_name": "TOWN OF HALTON HILLS",
+    "category": "unknown",
+    "met_80pct": null
+  },
+  {
+    "municipality": "Hamilton",
+    "municipality_key": "hamilton",
+    "scope": "individual_target",
+    "year": 2025,
+    "target": null,
+    "official_progress": null,
+    "official_progress_pct": null,
+    "award_confirmed": false,
+    "award_cad": null,
+    "met_100pct": null,
+    "source_ids": [],
+    "evidence": [],
+    "MUNID": "25005",
+    "boundary_name": "CITY OF HAMILTON",
+    "category": "unknown",
+    "met_80pct": null
+  },
+  {
+    "municipality": "Innisfil",
+    "municipality_key": "innisfil",
+    "scope": "individual_target",
+    "year": 2025,
+    "target": null,
+    "official_progress": null,
+    "official_progress_pct": null,
+    "award_confirmed": false,
+    "award_cad": null,
+    "met_100pct": null,
+    "source_ids": [],
+    "evidence": [],
+    "MUNID": "43017",
+    "boundary_name": "TOWN OF INNISFIL",
+    "category": "unknown",
+    "met_80pct": null
+  },
+  {
+    "municipality": "Kawartha Lakes",
+    "municipality_key": "kawarthalakes",
+    "scope": "individual_target",
+    "year": 2025,
+    "target": null,
+    "official_progress": null,
+    "official_progress_pct": null,
+    "award_confirmed": false,
+    "award_cad": null,
+    "met_100pct": null,
+    "source_ids": [],
+    "evidence": [],
+    "MUNID": "16002",
+    "boundary_name": "CITY OF KAWARTHA LAKES",
+    "category": "unknown",
+    "met_80pct": null
+  },
+  {
+    "municipality": "Kingston",
+    "municipality_key": "kingston",
+    "scope": "individual_target",
+    "year": 2025,
+    "target": null,
+    "official_progress": null,
+    "official_progress_pct": null,
+    "award_confirmed": true,
+    "award_cad": null,
+    "met_100pct": null,
+    "source_ids": [
+      "hansard_2026_10_05"
+    ],
+    "evidence": [
+      {
+        "source_id": "hansard_2026_10_05",
+        "url": "https://www.ola.org/en/legislative-business/committees/heritage-infrastructure-cultural-policy/parliament-44/transcripts/committee-transcript-2026-oct-05",
+        "locator": "Martha Greenberg responses on Building Faster Fund; PDF page 13, printed HE-607",
+        "published_on": "2026-10-05",
+        "note": "Official transcript read through web research. Direct HTML/PDF requests returned HTTP 403. This is a reviewed factual extract, not a full original document snapshot."
+      }
+    ],
+    "MUNID": "10005",
+    "boundary_name": "CITY OF KINGSTON",
+    "category": "award_confirmed",
+    "met_80pct": null
+  },
+  {
+    "municipality": "Kitchener",
+    "municipality_key": "kitchener",
+    "scope": "individual_target",
+    "year": 2025,
+    "target": null,
+    "official_progress": null,
+    "official_progress_pct": null,
+    "award_confirmed": true,
+    "award_cad": null,
+    "met_100pct": null,
+    "source_ids": [
+      "hansard_2026_10_05"
+    ],
+    "evidence": [
+      {
+        "source_id": "hansard_2026_10_05",
+        "url": "https://www.ola.org/en/legislative-business/committees/heritage-infrastructure-cultural-policy/parliament-44/transcripts/committee-transcript-2026-oct-05",
+        "locator": "Martha Greenberg responses on Building Faster Fund; PDF page 13, printed HE-607",
+        "published_on": "2026-10-05",
+        "note": "Official transcript read through web research. Direct HTML/PDF requests returned HTTP 403. This is a reviewed factual extract, not a full original document snapshot."
+      }
+    ],
+    "MUNID": "30012",
+    "boundary_name": "CITY OF KITCHENER",
+    "category": "award_confirmed",
+    "met_80pct": null
+  },
+  {
+    "municipality": "London",
+    "municipality_key": "london",
+    "scope": "individual_target",
+    "year": 2025,
+    "target": null,
+    "official_progress": null,
+    "official_progress_pct": null,
+    "award_confirmed": true,
+    "award_cad": null,
+    "met_100pct": null,
+    "source_ids": [
+      "hansard_2026_10_05"
+    ],
+    "evidence": [
+      {
+        "source_id": "hansard_2026_10_05",
+        "url": "https://www.ola.org/en/legislative-business/committees/heritage-infrastructure-cultural-policy/parliament-44/transcripts/committee-transcript-2026-oct-05",
+        "locator": "Martha Greenberg responses on Building Faster Fund; PDF page 13, printed HE-607",
+        "published_on": "2026-10-05",
+        "note": "Official transcript read through web research. Direct HTML/PDF requests returned HTTP 403. This is a reviewed factual extract, not a full original document snapshot."
+      }
+    ],
+    "MUNID": "39036",
+    "boundary_name": "CITY OF LONDON",
+    "category": "award_confirmed",
+    "met_80pct": null
+  },
+  {
+    "municipality": "Markham",
+    "municipality_key": "markham",
+    "scope": "individual_target",
+    "year": 2025,
+    "target": null,
+    "official_progress": null,
+    "official_progress_pct": null,
+    "award_confirmed": false,
+    "award_cad": null,
+    "met_100pct": null,
+    "source_ids": [],
+    "evidence": [],
+    "MUNID": "19036",
+    "boundary_name": "CITY OF MARKHAM",
+    "category": "unknown",
+    "met_80pct": null
+  },
+  {
+    "municipality": "Milton",
+    "municipality_key": "milton",
+    "scope": "individual_target",
+    "year": 2025,
+    "target": null,
+    "official_progress": null,
+    "official_progress_pct": null,
+    "award_confirmed": true,
+    "award_cad": null,
+    "met_100pct": null,
+    "source_ids": [
+      "hansard_2026_10_05"
+    ],
+    "evidence": [
+      {
+        "source_id": "hansard_2026_10_05",
+        "url": "https://www.ola.org/en/legislative-business/committees/heritage-infrastructure-cultural-policy/parliament-44/transcripts/committee-transcript-2026-oct-05",
+        "locator": "Martha Greenberg responses on Building Faster Fund; PDF page 13, printed HE-607",
+        "published_on": "2026-10-05",
+        "note": "Official transcript read through web research. Direct HTML/PDF requests returned HTTP 403. This is a reviewed factual extract, not a full original document snapshot."
+      }
+    ],
+    "MUNID": "24009",
+    "boundary_name": "TOWN OF MILTON",
+    "category": "award_confirmed",
+    "met_80pct": null
+  },
+  {
+    "municipality": "Mississauga",
+    "municipality_key": "mississauga",
+    "scope": "individual_target",
+    "year": 2025,
+    "target": null,
+    "official_progress": null,
+    "official_progress_pct": null,
+    "award_confirmed": false,
+    "award_cad": null,
+    "met_100pct": null,
+    "source_ids": [],
+    "evidence": [],
+    "MUNID": "21005",
+    "boundary_name": "CITY OF MISSISSAUGA",
+    "category": "unknown",
+    "met_80pct": null
+  },
+  {
+    "municipality": "New Tecumseth",
+    "municipality_key": "newtecumseth",
+    "scope": "individual_target",
+    "year": 2025,
+    "target": null,
+    "official_progress": null,
+    "official_progress_pct": null,
+    "award_confirmed": false,
+    "award_cad": null,
+    "met_100pct": null,
+    "source_ids": [],
+    "evidence": [],
+    "MUNID": "43025",
+    "boundary_name": "TOWN OF NEW TECUMSETH",
+    "category": "unknown",
+    "met_80pct": null
+  },
+  {
+    "municipality": "Newmarket",
+    "municipality_key": "newmarket",
+    "scope": "individual_target",
+    "year": 2025,
+    "target": null,
+    "official_progress": null,
+    "official_progress_pct": null,
+    "award_confirmed": false,
+    "award_cad": null,
+    "met_100pct": null,
+    "source_ids": [],
+    "evidence": [],
+    "MUNID": "19048",
+    "boundary_name": "TOWN OF NEWMARKET",
+    "category": "unknown",
+    "met_80pct": null
+  },
+  {
+    "municipality": "Niagara Falls",
+    "municipality_key": "niagarafalls",
+    "scope": "individual_target",
+    "year": 2025,
+    "target": null,
+    "official_progress": null,
+    "official_progress_pct": null,
+    "award_confirmed": false,
+    "award_cad": null,
+    "met_100pct": null,
+    "source_ids": [],
+    "evidence": [],
+    "MUNID": "26043",
+    "boundary_name": "CITY OF NIAGARA FALLS",
+    "category": "unknown",
+    "met_80pct": null
+  },
+  {
+    "municipality": "Norfolk County",
+    "municipality_key": "norfolkcounty",
+    "scope": "individual_target",
+    "year": 2025,
+    "target": null,
+    "official_progress": null,
+    "official_progress_pct": null,
+    "award_confirmed": false,
+    "award_cad": null,
+    "met_100pct": null,
+    "source_ids": [],
+    "evidence": [],
+    "MUNID": "28030",
+    "boundary_name": "NORFOLK COUNTY",
+    "category": "unknown",
+    "met_80pct": null
+  },
+  {
+    "municipality": "North Bay",
+    "municipality_key": "northbay",
+    "scope": "individual_target",
+    "year": 2025,
+    "target": null,
+    "official_progress": null,
+    "official_progress_pct": null,
+    "award_confirmed": true,
+    "award_cad": null,
+    "met_100pct": null,
+    "source_ids": [
+      "hansard_2026_10_05"
+    ],
+    "evidence": [
+      {
+        "source_id": "hansard_2026_10_05",
+        "url": "https://www.ola.org/en/legislative-business/committees/heritage-infrastructure-cultural-policy/parliament-44/transcripts/committee-transcript-2026-oct-05",
+        "locator": "Martha Greenberg responses on Building Faster Fund; PDF page 13, printed HE-607",
+        "published_on": "2026-10-05",
+        "note": "Official transcript read through web research. Direct HTML/PDF requests returned HTTP 403. This is a reviewed factual extract, not a full original document snapshot."
+      }
+    ],
+    "MUNID": "48044",
+    "boundary_name": "CITY OF NORTH BAY",
+    "category": "award_confirmed",
+    "met_80pct": null
+  },
+  {
+    "municipality": "Oakville",
+    "municipality_key": "oakville",
+    "scope": "individual_target",
+    "year": 2025,
+    "target": null,
+    "official_progress": null,
+    "official_progress_pct": null,
+    "award_confirmed": false,
+    "award_cad": null,
+    "met_100pct": null,
+    "source_ids": [],
+    "evidence": [],
+    "MUNID": "24001",
+    "boundary_name": "TOWN OF OAKVILLE",
+    "category": "unknown",
+    "met_80pct": null
+  },
+  {
+    "municipality": "Oshawa",
+    "municipality_key": "oshawa",
+    "scope": "individual_target",
+    "year": 2025,
+    "target": null,
+    "official_progress": null,
+    "official_progress_pct": null,
+    "award_confirmed": false,
+    "award_cad": null,
+    "met_100pct": null,
+    "source_ids": [],
+    "evidence": [],
+    "MUNID": "18013",
+    "boundary_name": "CITY OF OSHAWA",
+    "category": "unknown",
+    "met_80pct": null
+  },
+  {
+    "municipality": "Ottawa",
+    "municipality_key": "ottawa",
+    "scope": "individual_target",
+    "year": 2025,
+    "target": null,
+    "official_progress": null,
+    "official_progress_pct": null,
+    "award_confirmed": false,
+    "award_cad": null,
+    "met_100pct": null,
+    "source_ids": [],
+    "evidence": [],
+    "MUNID": "6005",
+    "boundary_name": "CITY OF OTTAWA",
+    "category": "unknown",
+    "met_80pct": null
+  },
+  {
+    "municipality": "Peterborough City",
+    "municipality_key": "peterboroughcity",
+    "scope": "individual_target",
+    "year": 2025,
+    "target": null,
+    "official_progress": null,
+    "official_progress_pct": null,
+    "award_confirmed": true,
+    "award_cad": null,
+    "met_100pct": null,
+    "source_ids": [
+      "hansard_2026_10_05"
+    ],
+    "evidence": [
+      {
+        "source_id": "hansard_2026_10_05",
+        "url": "https://www.ola.org/en/legislative-business/committees/heritage-infrastructure-cultural-policy/parliament-44/transcripts/committee-transcript-2026-oct-05",
+        "locator": "Martha Greenberg responses on Building Faster Fund; PDF page 13, printed HE-607",
+        "published_on": "2026-10-05",
+        "note": "Official transcript read through web research. Direct HTML/PDF requests returned HTTP 403. This is a reviewed factual extract, not a full original document snapshot."
+      }
+    ],
+    "MUNID": "15014",
+    "boundary_name": "CITY OF PETERBOROUGH",
+    "category": "award_confirmed",
+    "met_80pct": null
+  },
+  {
+    "municipality": "Pickering",
+    "municipality_key": "pickering",
+    "scope": "individual_target",
+    "year": 2025,
+    "target": null,
+    "official_progress": null,
+    "official_progress_pct": null,
+    "award_confirmed": true,
+    "award_cad": null,
+    "met_100pct": null,
+    "source_ids": [
+      "hansard_2026_10_05"
+    ],
+    "evidence": [
+      {
+        "source_id": "hansard_2026_10_05",
+        "url": "https://www.ola.org/en/legislative-business/committees/heritage-infrastructure-cultural-policy/parliament-44/transcripts/committee-transcript-2026-oct-05",
+        "locator": "Martha Greenberg responses on Building Faster Fund; PDF page 13, printed HE-607",
+        "published_on": "2026-10-05",
+        "note": "Official transcript read through web research. Direct HTML/PDF requests returned HTTP 403. This is a reviewed factual extract, not a full original document snapshot."
+      }
+    ],
+    "MUNID": "18001",
+    "boundary_name": "CITY OF PICKERING",
+    "category": "award_confirmed",
+    "met_80pct": null
+  },
+  {
+    "municipality": "Richmond Hill",
+    "municipality_key": "richmondhill",
+    "scope": "individual_target",
+    "year": 2025,
+    "target": null,
+    "official_progress": null,
+    "official_progress_pct": null,
+    "award_confirmed": true,
+    "award_cad": null,
+    "met_100pct": null,
+    "source_ids": [
+      "hansard_2026_10_05"
+    ],
+    "evidence": [
+      {
+        "source_id": "hansard_2026_10_05",
+        "url": "https://www.ola.org/en/legislative-business/committees/heritage-infrastructure-cultural-policy/parliament-44/transcripts/committee-transcript-2026-oct-05",
+        "locator": "Martha Greenberg responses on Building Faster Fund; PDF page 13, printed HE-607",
+        "published_on": "2026-10-05",
+        "note": "Official transcript read through web research. Direct HTML/PDF requests returned HTTP 403. This is a reviewed factual extract, not a full original document snapshot."
+      }
+    ],
+    "MUNID": "19038",
+    "boundary_name": "CITY OF RICHMOND HILL",
+    "category": "award_confirmed",
+    "met_80pct": null
+  },
+  {
+    "municipality": "Sarnia",
+    "municipality_key": "sarnia",
+    "scope": "individual_target",
+    "year": 2025,
+    "target": null,
+    "official_progress": null,
+    "official_progress_pct": null,
+    "award_confirmed": true,
+    "award_cad": null,
+    "met_100pct": null,
+    "source_ids": [
+      "hansard_2026_10_05"
+    ],
+    "evidence": [
+      {
+        "source_id": "hansard_2026_10_05",
+        "url": "https://www.ola.org/en/legislative-business/committees/heritage-infrastructure-cultural-policy/parliament-44/transcripts/committee-transcript-2026-oct-05",
+        "locator": "Martha Greenberg responses on Building Faster Fund; PDF page 13, printed HE-607",
+        "published_on": "2026-10-05",
+        "note": "Official transcript read through web research. Direct HTML/PDF requests returned HTTP 403. This is a reviewed factual extract, not a full original document snapshot."
+      }
+    ],
+    "MUNID": "38030",
+    "boundary_name": "CITY OF SARNIA",
+    "category": "award_confirmed",
+    "met_80pct": null
+  },
+  {
+    "municipality": "Sault Ste. Marie",
+    "municipality_key": "saultstemarie",
+    "scope": "individual_target",
+    "year": 2025,
+    "target": null,
+    "official_progress": null,
+    "official_progress_pct": null,
+    "award_confirmed": true,
+    "award_cad": null,
+    "met_100pct": null,
+    "source_ids": [
+      "hansard_2026_10_05"
+    ],
+    "evidence": [
+      {
+        "source_id": "hansard_2026_10_05",
+        "url": "https://www.ola.org/en/legislative-business/committees/heritage-infrastructure-cultural-policy/parliament-44/transcripts/committee-transcript-2026-oct-05",
+        "locator": "Martha Greenberg responses on Building Faster Fund; PDF page 13, printed HE-607",
+        "published_on": "2026-10-05",
+        "note": "Official transcript read through web research. Direct HTML/PDF requests returned HTTP 403. This is a reviewed factual extract, not a full original document snapshot."
+      }
+    ],
+    "MUNID": "57061",
+    "boundary_name": "CITY OF SAULT STE. MARIE",
+    "category": "award_confirmed",
+    "met_80pct": null
+  },
+  {
+    "municipality": "St. Catharines",
+    "municipality_key": "stcatharines",
+    "scope": "individual_target",
+    "year": 2025,
+    "target": null,
+    "official_progress": null,
+    "official_progress_pct": null,
+    "award_confirmed": true,
+    "award_cad": null,
+    "met_100pct": null,
+    "source_ids": [
+      "hansard_2026_10_05"
+    ],
+    "evidence": [
+      {
+        "source_id": "hansard_2026_10_05",
+        "url": "https://www.ola.org/en/legislative-business/committees/heritage-infrastructure-cultural-policy/parliament-44/transcripts/committee-transcript-2026-oct-05",
+        "locator": "Martha Greenberg responses on Building Faster Fund; PDF page 13, printed HE-607",
+        "published_on": "2026-10-05",
+        "note": "Official transcript read through web research. Direct HTML/PDF requests returned HTTP 403. This is a reviewed factual extract, not a full original document snapshot."
+      }
+    ],
+    "MUNID": "26053",
+    "boundary_name": "CITY OF ST. CATHARINES",
+    "category": "award_confirmed",
+    "met_80pct": null
+  },
+  {
+    "municipality": "Thunder Bay",
+    "municipality_key": "thunderbay",
+    "scope": "individual_target",
+    "year": 2025,
+    "target": null,
+    "official_progress": null,
+    "official_progress_pct": null,
+    "award_confirmed": true,
+    "award_cad": null,
+    "met_100pct": null,
+    "source_ids": [
+      "hansard_2026_10_05"
+    ],
+    "evidence": [
+      {
+        "source_id": "hansard_2026_10_05",
+        "url": "https://www.ola.org/en/legislative-business/committees/heritage-infrastructure-cultural-policy/parliament-44/transcripts/committee-transcript-2026-oct-05",
+        "locator": "Martha Greenberg responses on Building Faster Fund; PDF page 13, printed HE-607",
+        "published_on": "2026-10-05",
+        "note": "Official transcript read through web research. Direct HTML/PDF requests returned HTTP 403. This is a reviewed factual extract, not a full original document snapshot."
+      }
+    ],
+    "MUNID": "58004",
+    "boundary_name": "CITY OF THUNDER BAY",
+    "category": "award_confirmed",
+    "met_80pct": null
+  },
+  {
+    "municipality": "Toronto",
+    "municipality_key": "toronto",
+    "scope": "individual_target",
+    "year": 2025,
+    "target": 28500,
+    "official_progress": 13928,
+    "official_progress_pct": 48.87017543859649,
+    "award_confirmed": false,
+    "award_cad": null,
+    "met_100pct": false,
+    "source_ids": [
+      "toronto_2025_q4"
+    ],
+    "evidence": [
+      {
+        "source_id": "toronto_2025_q4",
+        "url": "https://www.toronto.ca/wp-content/uploads/2026/06/96a6-city-planning-municipal-housing-target-dashboard-Q4-25.pdf",
+        "locator": "Page 1: annual target and Starts row; excludes approvals, built units and completions",
+        "published_on": "2026-02",
+        "note": "Municipal dashboard updated February 2026; includes available conversions, LTC and student beds. Not a final MMAH reconciliation or award decision."
+      }
+    ],
+    "MUNID": "20002",
+    "boundary_name": "CITY OF TORONTO",
+    "category": "below_80",
+    "met_80pct": false
+  },
+  {
+    "municipality": "Vaughan",
+    "municipality_key": "vaughan",
+    "scope": "individual_target",
+    "year": 2025,
+    "target": null,
+    "official_progress": null,
+    "official_progress_pct": null,
+    "award_confirmed": false,
+    "award_cad": null,
+    "met_100pct": null,
+    "source_ids": [],
+    "evidence": [],
+    "MUNID": "19028",
+    "boundary_name": "CITY OF VAUGHAN",
+    "category": "unknown",
+    "met_80pct": null
+  },
+  {
+    "municipality": "Waterloo",
+    "municipality_key": "waterloo",
+    "scope": "individual_target",
+    "year": 2025,
+    "target": null,
+    "official_progress": null,
+    "official_progress_pct": null,
+    "award_confirmed": true,
+    "award_cad": null,
+    "met_100pct": null,
+    "source_ids": [
+      "hansard_2026_10_05"
+    ],
+    "evidence": [
+      {
+        "source_id": "hansard_2026_10_05",
+        "url": "https://www.ola.org/en/legislative-business/committees/heritage-infrastructure-cultural-policy/parliament-44/transcripts/committee-transcript-2026-oct-05",
+        "locator": "Martha Greenberg responses on Building Faster Fund; PDF page 13, printed HE-607",
+        "published_on": "2026-10-05",
+        "note": "Official transcript read through web research. Direct HTML/PDF requests returned HTTP 403. This is a reviewed factual extract, not a full original document snapshot."
+      }
+    ],
+    "MUNID": "30016",
+    "boundary_name": "CITY OF WATERLOO",
+    "category": "award_confirmed",
+    "met_80pct": null
+  },
+  {
+    "municipality": "Welland",
+    "municipality_key": "welland",
+    "scope": "individual_target",
+    "year": 2025,
+    "target": 430,
+    "official_progress": 528,
+    "official_progress_pct": 122.79069767441861,
+    "award_confirmed": true,
+    "award_cad": 1669317,
+    "met_100pct": true,
+    "source_ids": [
+      "hansard_2026_10_05",
+      "welland_2026_06_18"
+    ],
+    "evidence": [
+      {
+        "source_id": "hansard_2026_10_05",
+        "url": "https://www.ola.org/en/legislative-business/committees/heritage-infrastructure-cultural-policy/parliament-44/transcripts/committee-transcript-2026-oct-05",
+        "locator": "Martha Greenberg responses on Building Faster Fund; PDF page 13, printed HE-607",
+        "published_on": "2026-10-05",
+        "note": "Official transcript read through web research. Direct HTML/PDF requests returned HTTP 403. This is a reviewed factual extract, not a full original document snapshot."
+      },
+      {
+        "source_id": "welland_2026_06_18",
+        "url": "https://www.welland.ca/news/posts/city-of-welland-receives-167m-for-exceeding-housing-targets/",
+        "locator": "Paragraph beginning In 2025",
+        "published_on": "2026-06-18",
+        "note": ""
+      }
+    ],
+    "MUNID": "26032",
+    "boundary_name": "CITY OF WELLAND",
+    "category": "eligible",
+    "met_80pct": true
+  },
+  {
+    "municipality": "Whitby",
+    "municipality_key": "whitby",
+    "scope": "individual_target",
+    "year": 2025,
+    "target": null,
+    "official_progress": null,
+    "official_progress_pct": null,
+    "award_confirmed": false,
+    "award_cad": null,
+    "met_100pct": null,
+    "source_ids": [],
+    "evidence": [],
+    "MUNID": "18009",
+    "boundary_name": "TOWN OF WHITBY",
+    "category": "unknown",
+    "met_80pct": null
+  },
+  {
+    "municipality": "Whitchurch-Stouffville",
+    "municipality_key": "whitchurchstouffville",
+    "scope": "individual_target",
+    "year": 2025,
+    "target": null,
+    "official_progress": null,
+    "official_progress_pct": null,
+    "award_confirmed": false,
+    "award_cad": null,
+    "met_100pct": null,
+    "source_ids": [],
+    "evidence": [],
+    "MUNID": "19044",
+    "boundary_name": "TOWN OF WHITCHURCH-STOUFFVILLE",
+    "category": "unknown",
+    "met_80pct": null
+  },
+  {
+    "municipality": "Windsor",
+    "municipality_key": "windsor",
+    "scope": "individual_target",
+    "year": 2025,
+    "target": null,
+    "official_progress": null,
+    "official_progress_pct": null,
+    "award_confirmed": false,
+    "award_cad": null,
+    "met_100pct": null,
+    "source_ids": [],
+    "evidence": [],
+    "MUNID": "37039",
+    "boundary_name": "CITY OF WINDSOR",
+    "category": "unknown",
+    "met_80pct": null
+  },
+  {
+    "municipality": "Woodstock",
+    "municipality_key": "woodstock",
+    "scope": "individual_target",
+    "year": 2025,
+    "target": null,
+    "official_progress": null,
+    "official_progress_pct": null,
+    "award_confirmed": false,
+    "award_cad": null,
+    "met_100pct": null,
+    "source_ids": [],
+    "evidence": [],
+    "MUNID": "32042",
+    "boundary_name": "CITY OF WOODSTOCK",
+    "category": "unknown",
+    "met_80pct": null
+  }
+]

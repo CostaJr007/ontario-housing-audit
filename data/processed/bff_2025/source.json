@@ -1,0 +1,70 @@
+{
+  "year": 2025,
+  "sources": [
+    {
+      "id": "hansard_2026_10_05",
+      "format": "reviewed_extract",
+      "url": "https://www.ola.org/en/legislative-business/committees/heritage-infrastructure-cultural-policy/parliament-44/transcripts/committee-transcript-2026-oct-05",
+      "published_on": "2026-10-05",
+      "path": "data/raw/bff_evidence/hansard_2026_10_05_reviewed.json",
+      "locator": "Martha Greenberg responses on Building Faster Fund; PDF page 13, printed HE-607",
+      "note": "Official transcript read through web research. Direct HTML/PDF requests returned HTTP 403. This is a reviewed factual extract, not a full original document snapshot.",
+      "adapter": "award_roster",
+      "sha256": "0299aa86e2487f5ad087454bb4889f7ab703b1aa1e492b98fa4e5b9f880b4bf0",
+      "snapshot_kind": "reviewed_extract"
+    },
+    {
+      "id": "welland_2026_06_18",
+      "format": "html",
+      "url": "https://www.welland.ca/news/posts/city-of-welland-receives-167m-for-exceeding-housing-targets/",
+      "published_on": "2026-06-18",
+      "path": "data/raw/bff_evidence/welland_2026_06_18.html",
+      "adapter": "annual_progress",
+      "municipality": "Welland",
+      "period_start": "2025-01-01",
+      "period_end": "2025-12-31",
+      "metric": "bff_comparable_progress",
+      "locator": "Paragraph beginning In 2025",
+      "anchors": [
+        "Based on its 2025 performance",
+        "528 new homes",
+        "target of 430"
+      ],
+      "target_pattern": "target of (?P<value>[\\d,]+) homes",
+      "progress_pattern": "In 2025, construction began on (?P<value>[\\d,]+) new homes",
+      "award_cad_pattern": "received \\$(?P<value>[\\d,]+) to support",
+      "sha256": "78faa976aae7db373f9b061cc63105e5987fc669c5cff93e1161fc7a63039a02",
+      "snapshot_kind": "original_download"
+    },
+    {
+      "id": "toronto_2025_q4",
+      "format": "pdf",
+      "url": "https://www.toronto.ca/wp-content/uploads/2026/06/96a6-city-planning-municipal-housing-target-dashboard-Q4-25.pdf",
+      "published_on": "2026-02",
+      "path": "data/raw/bff_evidence/toronto_2025_q4.pdf",
+      "adapter": "annual_progress",
+      "municipality": "Toronto",
+      "period_start": "2025-01-01",
+      "period_end": "2025-12-31",
+      "metric": "bff_comparable_progress",
+      "page": 1,
+      "locator": "Page 1: annual target and Starts row; excludes approvals, built units and completions",
+      "anchors": [
+        "Annual Housing Target, 2025",
+        "December 31, 2025",
+        "13,928 units"
+      ],
+      "target_pattern": "2025 Municipal Housing Target\\s+(?P<value>[\\d,]+) units",
+      "progress_pattern": "Starts: Unit starts.*?(?P<value>[\\d,]+) units",
+      "note": "Municipal dashboard updated February 2026; includes available conversions, LTC and student beds. Not a final MMAH reconciliation or award decision.",
+      "sha256": "cfd2726a6821006348b59c100e6674e8595822a499c2f098ce0efa99ab8a4183",
+      "snapshot_kind": "original_download"
+    }
+  ],
+  "roster_year": 2024,
+  "roster_note": "Only municipality names are reused from 2024. No targets or performance are carried forward. Hansard confirms the program cohort of 50.",
+  "roster_sha256": "7fdbc6e99f577f751dd458de22f2b63d6c7fbe092bc14ad73f44e57388fbca9a",
+  "reviewed_on": "2026-11-20",
+  "mode": "partial_multi_source_evidence",
+  "registry_sha256": "5cfeefcba9df2ba379e87d03c72f55ba0f05e7ede0eb3be198149f1c8411f8dc"
+}

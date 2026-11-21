@@ -1,0 +1,16 @@
+{
+  "2023": {
+    "province-funding": "$1,510,624,098",
+    "province-units": "41,322",
+    "province-growth": "230,449",
+    "row_funding_sum_cad": 1510624100,
+    "row_sum_minus_header_cad": 2
+  },
+  "2024": {
+    "province-funding": "$157,920,070",
+    "province-units": "4,808",
+    "province-growth": "22,448",
+    "row_funding_sum_cad": 157920071,
+    "row_sum_minus_header_cad": 1
+  }
+}

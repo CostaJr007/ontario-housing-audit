@@ -1,0 +1,14 @@
+{
+  "year": 2025,
+  "documented_award_cases": 4,
+  "program_cohort": 50,
+  "announced_allocations_in_sample_cad": 21346624,
+  "below_80pct_if_new_construction_only": [
+    "London",
+    "Kitchener"
+  ],
+  "announced_allocations_in_new_construction_counterfactual_cad": 19277307,
+  "complete_independent_unit_breakdown_count": 1,
+  "proven_bed_dependent_award_count": null,
+  "interpretation": "Counterfactual new-construction-only comparison, not a finding of improper payments. Independent ARUs can house families and must not be called institutional beds."
+}

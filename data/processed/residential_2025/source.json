@@ -1,0 +1,141 @@
+{
+  "year": 2025,
+  "source_url": "https://assets.cmhc-schl.gc.ca/sites/cmhc/professional/housing-markets-data-and-research/housing-data-tables/housing-market-data/housing-information-monthly/2025/december/starts-completions-under-construction-12-25-en.xlsx",
+  "landing_page": "https://www.cmhc-schl.gc.ca/professionals/housing-markets-data-and-research/housing-data/data-tables/housing-market-data/starts-completions-under-construction-census-subdivisions",
+  "methodology": "https://www.cmhc-schl.gc.ca/professionals/housing-markets-data-and-research/housing-research/surveys/methods/methodologies-starts-completions-market-absorption-survey",
+  "source_sha256": "fb3c107e3d0e308ed3d7b7d92f03f621aaa308cf7629d1288caeca27fa49964f",
+  "retrieved_at_utc": "2026-11-21T00:45:10.405701+00:00",
+  "vintage": "December 2025 edition, not a claim to latest revised data",
+  "period": "January to December 2025",
+  "geography": "Explicit municipal CSD rows only; never CMA/CA totals",
+  "unit": "Self-contained year-round residential dwelling units, not buildings or beds",
+  "cohort": "50 BFF municipalities from the 2024 program roster; names only, no inherited annual targets",
+  "included": [
+    "single-detached",
+    "semi-detached",
+    "row",
+    "apartment and other; includes duplexes and stacked townhouses"
+  ],
+  "not_added": [
+    "LTC beds",
+    "student beds",
+    "institutional suites",
+    "conversions/ARUs in existing buildings"
+  ],
+  "limitations": [
+    "No residents, family composition, bedroom counts, affordability or actual occupancy in this workbook",
+    "An independent unit occupied by a student or senior remains a residential unit; the data cannot identify the occupant",
+    "Apartment and other cannot be separated into pure apartments and other types with this table",
+    "Starts and completions are distinct annual flows, not the same construction cohort"
+  ],
+  "excluded_nonmunicipal_rows": [
+    {
+      "sheet": "Table H11-3",
+      "row": 13,
+      "label": "Brockville CA",
+      "reason": "not an explicit municipal CSD row"
+    },
+    {
+      "sheet": "Table H11-3",
+      "row": 14,
+      "label": "Centre Wellington CA",
+      "reason": "not an explicit municipal CSD row"
+    },
+    {
+      "sheet": "Table H11-3",
+      "row": 15,
+      "label": "Cobourg CA",
+      "reason": "not an explicit municipal CSD row"
+    },
+    {
+      "sheet": "Table H11-3",
+      "row": 16,
+      "label": "Collingwood CA",
+      "reason": "not an explicit municipal CSD row"
+    },
+    {
+      "sheet": "Table H11-3",
+      "row": 17,
+      "label": "Essa CA",
+      "reason": "not an explicit municipal CSD row"
+    },
+    {
+      "sheet": "Table H11-3",
+      "row": 22,
+      "label": "Hawkesbury CA",
+      "reason": "not an explicit municipal CSD row"
+    },
+    {
+      "sheet": "Table H11-3",
+      "row": 24,
+      "label": "Ingersoll CA",
+      "reason": "not an explicit municipal CSD row"
+    },
+    {
+      "sheet": "Table H11-3",
+      "row": 25,
+      "label": "Kenora CA",
+      "reason": "not an explicit municipal CSD row"
+    },
+    {
+      "sheet": "Table H11-3",
+      "row": 29,
+      "label": "Midland CA",
+      "reason": "not an explicit municipal CSD row"
+    },
+    {
+      "sheet": "Table H11-3",
+      "row": 31,
+      "label": "Orillia CA",
+      "reason": "not an explicit municipal CSD row"
+    },
+    {
+      "sheet": "Table H11-3",
+      "row": 32,
+      "label": "Owen Sound CA",
+      "reason": "not an explicit municipal CSD row"
+    },
+    {
+      "sheet": "Table H11-3",
+      "row": 33,
+      "label": "Pembroke CA",
+      "reason": "not an explicit municipal CSD row"
+    },
+    {
+      "sheet": "Table H11-3",
+      "row": 34,
+      "label": "Petawawa CA",
+      "reason": "not an explicit municipal CSD row"
+    },
+    {
+      "sheet": "Table H11-3",
+      "row": 35,
+      "label": "Port Hope CA",
+      "reason": "not an explicit municipal CSD row"
+    },
+    {
+      "sheet": "Table H11-3",
+      "row": 42,
+      "label": "Tillsonburg CA",
+      "reason": "not an explicit municipal CSD row"
+    },
+    {
+      "sheet": "Table H11-3",
+      "row": 43,
+      "label": "Timmins CA",
+      "reason": "not an explicit municipal CSD row"
+    },
+    {
+      "sheet": "Table H11-3",
+      "row": 45,
+      "label": "Wasaga Beach CA",
+      "reason": "not an explicit municipal CSD row"
+    },
+    {
+      "sheet": "Table H11-3",
+      "row": 48,
+      "label": "Woodstock CA",
+      "reason": "not an explicit municipal CSD row"
+    }
+  ]
+}

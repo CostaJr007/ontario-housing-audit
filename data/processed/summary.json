@@ -1,0 +1,24 @@
+{
+  "2023": {
+    "municipalities_with_targets": 50,
+    "met_100pct": 20,
+    "below_100pct": 30,
+    "targeted_municipalities_progress": 94090,
+    "aggregate_without_individual_targets_progress": 16237,
+    "province_official_progress": 110327,
+    "province_target": 110000,
+    "province_progress_pct": 100.29727272727274,
+    "sum_csv_targets": 110000
+  },
+  "2024": {
+    "municipalities_with_targets": 50,
+    "met_100pct": 15,
+    "below_100pct": 35,
+    "targeted_municipalities_progress": 82106,
+    "aggregate_without_individual_targets_progress": 12802,
+    "province_official_progress": 94908,
+    "province_target": 125000,
+    "province_progress_pct": 75.9264,
+    "sum_csv_targets": 125000
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "all_payment_rows": 16142,
+  "bff_labelled_rows": 0,
+  "mma_housing_transfer_rows": 165,
+  "recipients": [
+    {
+      "municipality": "London",
+      "records": [
+        {
+          "Amount $": "49704726",
+          "Ministry": "Ministry Of Municipal Affairs And Housing",
+          "Category": "Transfer Payments",
+          "Payment Detail": "No Value",
+          "Recipient": "City Of London",
+          "Statutory": "No Value",
+          "Additional Detail": "No Value"
+        }
+      ],
+      "ministry_transfer_total_cad": 49704726,
+      "program": "All disclosed MMAH transfer payments; BFF component not isolated",
+      "bff_payment_verified": null
+    },
+    {
+      "municipality": "Kitchener",
+      "records": [
+        {
+          "Amount $": "12940765",
+          "Ministry": "Ministry Of Municipal Affairs And Housing",
+          "Category": "Transfer Payments",
+          "Payment Detail": "No Value",
+          "Recipient": "City Of Kitchener",
+          "Statutory": "No Value",
+          "Additional Detail": "No Value"
+        }
+      ],
+      "ministry_transfer_total_cad": 12940765,
+      "program": "All disclosed MMAH transfer payments; BFF component not isolated",
+      "bff_payment_verified": null
+    },
+    {
+      "municipality": "Sarnia",
+      "records": [
+        {
+          "Amount $": "720994",
+          "Ministry": "Ministry Of Municipal Affairs And Housing",
+          "Category": "Transfer Payments",
+          "Payment Detail": "No Value",
+          "Recipient": "City Of Sarnia",
+          "Statutory": "No Value",
+          "Additional Detail": "No Value"
+        }
+      ],
+      "ministry_transfer_total_cad": 720994,
+      "program": "All disclosed MMAH transfer payments; BFF component not isolated",
+      "bff_payment_verified": null
+    },
+    {
+      "municipality": "Welland",
+      "records": [
+        {
+          "Amount $": "1214037",
+          "Ministry": "Ministry Of Municipal Affairs And Housing",
+          "Category": "Transfer Payments",
+          "Payment Detail": "No Value",
+          "Recipient": "City Of Welland",
+          "Statutory": "No Value",
+          "Additional Detail": "No Value"
+        }
+      ],
+      "ministry_transfer_total_cad": 1214037,
+      "program": "All disclosed MMAH transfer payments; BFF component not isolated",
+      "bff_payment_verified": null
+    }
+  ],
+  "source_url": "https://data.ontario.ca/dataset/56c9a95f-c7b6-40ee-a4b8-d2343e51c83d/resource/3ab37bb7-4f51-4d90-951b-b9d566f65898/download/tbs-public-accounts-detailed-schedule-payments-2025-26-en.csv",
+  "source_page": "https://data.ontario.ca/en/dataset/public-accounts-detailed-schedule-of-payments/resource/3ab37bb7-4f51-4d90-951b-b9d566f65898",
+  "source_sha256": "34bbc93313a11295a892b82099ce75f51a7cb40e80935970bb7960a2a8177923",
+  "retrieved_at_utc": "2026-11-21T01:14:19.553357+00:00",
+  "fiscal_period_start": "2025-04-01",
+  "fiscal_period_end": "2026-03-31",
+  "finding": "No BFF-specific label found. The schedule discloses ministry-recipient totals; it cannot isolate the BFF component.",
+  "timing_limit": "The four 2025-performance award announcements used in the comparison were published June/July 2026, after this fiscal period. Do not reconcile those awards to these earlier totals.",
+  "interpretation": "Officially announced allocations and accounting confirmation of program-specific payments remain separate evidence categories."
+}

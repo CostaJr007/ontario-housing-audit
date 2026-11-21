@@ -1,0 +1,10 @@
+{
+  "year": 2024,
+  "targeted_municipalities": 50,
+  "unmatched": [],
+  "boundary_municipalities": 414,
+  "projection": "EPSG:3347",
+  "invalid_features_repaired_for_display": 248,
+  "collapsed_features_excluded_from_display": 1,
+  "boundary_vintage": "current snapshot; not a reconstructed 2024 boundary"
+}

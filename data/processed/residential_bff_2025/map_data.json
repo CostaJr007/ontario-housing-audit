@@ -1,0 +1,3903 @@
+{
+  "rows": {
+    "18005": {
+      "municipality": "Ajax",
+      "municipality_key": "ajax",
+      "scope": "individual_target",
+      "year": 2025,
+      "in_cohort": true,
+      "target": null,
+      "official_pct": null,
+      "official_progress": null,
+      "official_met_80pct": null,
+      "new_starts_used": 331,
+      "new_starts_pct": null,
+      "new_starts_met_80pct": null,
+      "independent_including_arus": null,
+      "independent_including_arus_pct": null,
+      "independent_including_arus_met_80pct": null,
+      "reviewed_arus": null,
+      "announced_allocation_cad": null,
+      "note": "Annual target not yet verified in this comparison.",
+      "award_confirmed": false,
+      "comparison_documented": false,
+      "MUNID": "18005",
+      "boundary_name": "TOWN OF AJAX",
+      "category": "unknown",
+      "met_80pct": null
+    },
+    "19046": {
+      "municipality": "Aurora",
+      "municipality_key": "aurora",
+      "scope": "individual_target",
+      "year": 2025,
+      "in_cohort": true,
+      "target": null,
+      "official_pct": null,
+      "official_progress": null,
+      "official_met_80pct": null,
+      "new_starts_used": 94,
+      "new_starts_pct": null,
+      "new_starts_met_80pct": null,
+      "independent_including_arus": null,
+      "independent_including_arus_pct": null,
+      "independent_including_arus_met_80pct": null,
+      "reviewed_arus": null,
+      "announced_allocation_cad": null,
+      "note": "Annual target not yet verified in this comparison.",
+      "award_confirmed": false,
+      "comparison_documented": false,
+      "MUNID": "19046",
+      "boundary_name": "TOWN OF AURORA",
+      "category": "unknown",
+      "met_80pct": null
+    },
+    "43042": {
+      "municipality": "Barrie",
+      "municipality_key": "barrie",
+      "scope": "individual_target",
+      "year": 2025,
+      "in_cohort": true,
+      "target": null,
+      "official_pct": null,
+      "official_progress": null,
+      "official_met_80pct": null,
+      "new_starts_used": 697,
+      "new_starts_pct": null,
+      "new_starts_met_80pct": null,
+      "independent_including_arus": null,
+      "independent_including_arus_pct": null,
+      "independent_including_arus_met_80pct": null,
+      "reviewed_arus": null,
+      "announced_allocation_cad": null,
+      "note": "Annual target not yet verified in this comparison.",
+      "award_confirmed": false,
+      "comparison_documented": false,
+      "MUNID": "43042",
+      "boundary_name": "CITY OF BARRIE",
+      "category": "unknown",
+      "met_80pct": null
+    },
+    "12005": {
+      "municipality": "Belleville",
+      "municipality_key": "belleville",
+      "scope": "individual_target",
+      "year": 2025,
+      "in_cohort": true,
+      "target": null,
+      "official_pct": null,
+      "official_progress": null,
+      "official_met_80pct": null,
+      "new_starts_used": 372,
+      "new_starts_pct": null,
+      "new_starts_met_80pct": null,
+      "independent_including_arus": null,
+      "independent_including_arus_pct": null,
+      "independent_including_arus_met_80pct": null,
+      "reviewed_arus": null,
+      "announced_allocation_cad": null,
+      "note": "Annual target not yet verified in this comparison.",
+      "award_confirmed": true,
+      "comparison_documented": false,
+      "MUNID": "12005",
+      "boundary_name": "CITY OF BELLEVILLE",
+      "category": "unknown",
+      "met_80pct": null
+    },
+    "43013": {
+      "municipality": "Bradford West Gwillimbury",
+      "municipality_key": "bradfordwestgwillimbury",
+      "scope": "individual_target",
+      "year": 2025,
+      "in_cohort": true,
+      "target": null,
+      "official_pct": null,
+      "official_progress": null,
+      "official_met_80pct": null,
+      "new_starts_used": 43,
+      "new_starts_pct": null,
+      "new_starts_met_80pct": null,
+      "independent_including_arus": null,
+      "independent_including_arus_pct": null,
+      "independent_including_arus_met_80pct": null,
+      "reviewed_arus": null,
+      "announced_allocation_cad": null,
+      "note": "Annual target not yet verified in this comparison.",
+      "award_confirmed": false,
+      "comparison_documented": false,
+      "MUNID": "43013",
+      "boundary_name": "TOWN OF BRADFORD WEST GWILLIMBURY",
+      "category": "unknown",
+      "met_80pct": null
+    },
+    "21010": {
+      "municipality": "Brampton",
+      "municipality_key": "brampton",
+      "scope": "individual_target",
+      "year": 2025,
+      "in_cohort": true,
+      "target": null,
+      "official_pct": null,
+      "official_progress": null,
+      "official_met_80pct": null,
+      "new_starts_used": 1370,
+      "new_starts_pct": null,
+      "new_starts_met_80pct": null,
+      "independent_including_arus": null,
+      "independent_including_arus_pct": null,
+      "independent_including_arus_met_80pct": null,
+      "reviewed_arus": null,
+      "announced_allocation_cad": null,
+      "note": "Annual target not yet verified in this comparison.",
+      "award_confirmed": false,
+      "comparison_documented": false,
+      "MUNID": "21010",
+      "boundary_name": "CITY OF BRAMPTON",
+      "category": "unknown",
+      "met_80pct": null
+    },
+    "29006": {
+      "municipality": "Brantford",
+      "municipality_key": "brantford",
+      "scope": "individual_target",
+      "year": 2025,
+      "in_cohort": true,
+      "target": null,
+      "official_pct": null,
+      "official_progress": null,
+      "official_met_80pct": null,
+      "new_starts_used": 1341,
+      "new_starts_pct": null,
+      "new_starts_met_80pct": null,
+      "independent_including_arus": null,
+      "independent_including_arus_pct": null,
+      "independent_including_arus_met_80pct": null,
+      "reviewed_arus": null,
+      "announced_allocation_cad": null,
+      "note": "Annual target not yet verified in this comparison.",
+      "award_confirmed": true,
+      "comparison_documented": false,
+      "MUNID": "29006",
+      "boundary_name": "CITY OF BRANTFORD",
+      "category": "unknown",
+      "met_80pct": null
+    },
+    "24002": {
+      "municipality": "Burlington",
+      "municipality_key": "burlington",
+      "scope": "individual_target",
+      "year": 2025,
+      "in_cohort": true,
+      "target": null,
+      "official_pct": null,
+      "official_progress": null,
+      "official_met_80pct": null,
+      "new_starts_used": 539,
+      "new_starts_pct": null,
+      "new_starts_met_80pct": null,
+      "independent_including_arus": null,
+      "independent_including_arus_pct": null,
+      "independent_including_arus_met_80pct": null,
+      "reviewed_arus": null,
+      "announced_allocation_cad": null,
+      "note": "Annual target not yet verified in this comparison.",
+      "award_confirmed": false,
+      "comparison_documented": false,
+      "MUNID": "24002",
+      "boundary_name": "CITY OF BURLINGTON",
+      "category": "unknown",
+      "met_80pct": null
+    },
+    "21024": {
+      "municipality": "Caledon",
+      "municipality_key": "caledon",
+      "scope": "individual_target",
+      "year": 2025,
+      "in_cohort": true,
+      "target": null,
+      "official_pct": null,
+      "official_progress": null,
+      "official_met_80pct": null,
+      "new_starts_used": 248,
+      "new_starts_pct": null,
+      "new_starts_met_80pct": null,
+      "independent_including_arus": null,
+      "independent_including_arus_pct": null,
+      "independent_including_arus_met_80pct": null,
+      "reviewed_arus": null,
+      "announced_allocation_cad": null,
+      "note": "Annual target not yet verified in this comparison.",
+      "award_confirmed": false,
+      "comparison_documented": false,
+      "MUNID": "21024",
+      "boundary_name": "TOWN OF CALEDON",
+      "category": "unknown",
+      "met_80pct": null
+    },
+    "30006": {
+      "municipality": "Cambridge",
+      "municipality_key": "cambridge",
+      "scope": "individual_target",
+      "year": 2025,
+      "in_cohort": true,
+      "target": null,
+      "official_pct": null,
+      "official_progress": null,
+      "official_met_80pct": null,
+      "new_starts_used": 472,
+      "new_starts_pct": null,
+      "new_starts_met_80pct": null,
+      "independent_including_arus": null,
+      "independent_including_arus_pct": null,
+      "independent_including_arus_met_80pct": null,
+      "reviewed_arus": null,
+      "announced_allocation_cad": null,
+      "note": "Annual target not yet verified in this comparison.",
+      "award_confirmed": false,
+      "comparison_documented": false,
+      "MUNID": "30006",
+      "boundary_name": "CITY OF CAMBRIDGE",
+      "category": "unknown",
+      "met_80pct": null
+    },
+    "36003": {
+      "municipality": "Chatham-Kent",
+      "municipality_key": "chathamkent",
+      "scope": "individual_target",
+      "year": 2025,
+      "in_cohort": true,
+      "target": null,
+      "official_pct": null,
+      "official_progress": null,
+      "official_met_80pct": null,
+      "new_starts_used": 470,
+      "new_starts_pct": null,
+      "new_starts_met_80pct": null,
+      "independent_including_arus": null,
+      "independent_including_arus_pct": null,
+      "independent_including_arus_met_80pct": null,
+      "reviewed_arus": null,
+      "announced_allocation_cad": null,
+      "note": "Annual target not yet verified in this comparison.",
+      "award_confirmed": true,
+      "comparison_documented": false,
+      "MUNID": "36003",
+      "boundary_name": "MUNICIPALITY OF CHATHAM-KENT",
+      "category": "unknown",
+      "met_80pct": null
+    },
+    "18017": {
+      "municipality": "Clarington",
+      "municipality_key": "clarington",
+      "scope": "individual_target",
+      "year": 2025,
+      "in_cohort": true,
+      "target": null,
+      "official_pct": null,
+      "official_progress": null,
+      "official_met_80pct": null,
+      "new_starts_used": 291,
+      "new_starts_pct": null,
+      "new_starts_met_80pct": null,
+      "independent_including_arus": null,
+      "independent_including_arus_pct": null,
+      "independent_including_arus_met_80pct": null,
+      "reviewed_arus": null,
+      "announced_allocation_cad": null,
+      "note": "Annual target not yet verified in this comparison.",
+      "award_confirmed": false,
+      "comparison_documented": false,
+      "MUNID": "18017",
+      "boundary_name": "MUNICIPALITY OF CLARINGTON",
+      "category": "unknown",
+      "met_80pct": null
+    },
+    "19054": {
+      "municipality": "East Gwillimbury",
+      "municipality_key": "eastgwillimbury",
+      "scope": "individual_target",
+      "year": 2025,
+      "in_cohort": true,
+      "target": null,
+      "official_pct": null,
+      "official_progress": null,
+      "official_met_80pct": null,
+      "new_starts_used": 92,
+      "new_starts_pct": null,
+      "new_starts_met_80pct": null,
+      "independent_including_arus": null,
+      "independent_including_arus_pct": null,
+      "independent_including_arus_met_80pct": null,
+      "reviewed_arus": null,
+      "announced_allocation_cad": null,
+      "note": "Annual target not yet verified in this comparison.",
+      "award_confirmed": false,
+      "comparison_documented": false,
+      "MUNID": "19054",
+      "boundary_name": "TOWN OF EAST GWILLIMBURY",
+      "category": "unknown",
+      "met_80pct": null
+    },
+    "19070": {
+      "municipality": "Georgina",
+      "municipality_key": "georgina",
+      "scope": "individual_target",
+      "year": 2025,
+      "in_cohort": true,
+      "target": null,
+      "official_pct": null,
+      "official_progress": null,
+      "official_met_80pct": null,
+      "new_starts_used": 161,
+      "new_starts_pct": null,
+      "new_starts_met_80pct": null,
+      "independent_including_arus": null,
+      "independent_including_arus_pct": null,
+      "independent_including_arus_met_80pct": null,
+      "reviewed_arus": null,
+      "announced_allocation_cad": null,
+      "note": "Annual target not yet verified in this comparison.",
+      "award_confirmed": false,
+      "comparison_documented": false,
+      "MUNID": "19070",
+      "boundary_name": "TOWN OF GEORGINA",
+      "category": "unknown",
+      "met_80pct": null
+    },
+    "53005": {
+      "municipality": "Greater Sudbury",
+      "municipality_key": "greatersudbury",
+      "scope": "individual_target",
+      "year": 2025,
+      "in_cohort": true,
+      "target": null,
+      "official_pct": null,
+      "official_progress": null,
+      "official_met_80pct": null,
+      "new_starts_used": 327,
+      "new_starts_pct": null,
+      "new_starts_met_80pct": null,
+      "independent_including_arus": null,
+      "independent_including_arus_pct": null,
+      "independent_including_arus_met_80pct": null,
+      "reviewed_arus": null,
+      "announced_allocation_cad": null,
+      "note": "Annual target not yet verified in this comparison.",
+      "award_confirmed": true,
+      "comparison_documented": false,
+      "MUNID": "53005",
+      "boundary_name": "CITY OF GREATER SUDBURY",
+      "category": "unknown",
+      "met_80pct": null
+    },
+    "23008": {
+      "municipality": "Guelph",
+      "municipality_key": "guelph",
+      "scope": "individual_target",
+      "year": 2025,
+      "in_cohort": true,
+      "target": null,
+      "official_pct": null,
+      "official_progress": null,
+      "official_met_80pct": null,
+      "new_starts_used": 300,
+      "new_starts_pct": null,
+      "new_starts_met_80pct": null,
+      "independent_including_arus": null,
+      "independent_including_arus_pct": null,
+      "independent_including_arus_met_80pct": null,
+      "reviewed_arus": null,
+      "announced_allocation_cad": null,
+      "note": "Annual target not yet verified in this comparison.",
+      "award_confirmed": false,
+      "comparison_documented": false,
+      "MUNID": "23008",
+      "boundary_name": "CITY OF GUELPH",
+      "category": "unknown",
+      "met_80pct": null
+    },
+    "28005": {
+      "municipality": "Haldimand County",
+      "municipality_key": "haldimandcounty",
+      "scope": "individual_target",
+      "year": 2025,
+      "in_cohort": true,
+      "target": null,
+      "official_pct": null,
+      "official_progress": null,
+      "official_met_80pct": null,
+      "new_starts_used": 102,
+      "new_starts_pct": null,
+      "new_starts_met_80pct": null,
+      "independent_including_arus": null,
+      "independent_including_arus_pct": null,
+      "independent_including_arus_met_80pct": null,
+      "reviewed_arus": null,
+      "announced_allocation_cad": null,
+      "note": "Annual target not yet verified in this comparison.",
+      "award_confirmed": false,
+      "comparison_documented": false,
+      "MUNID": "28005",
+      "boundary_name": "HALDIMAND COUNTY",
+      "category": "unknown",
+      "met_80pct": null
+    },
+    "24015": {
+      "municipality": "Halton Hills",
+      "municipality_key": "haltonhills",
+      "scope": "individual_target",
+      "year": 2025,
+      "in_cohort": true,
+      "target": null,
+      "official_pct": null,
+      "official_progress": null,
+      "official_met_80pct": null,
+      "new_starts_used": 308,
+      "new_starts_pct": null,
+      "new_starts_met_80pct": null,
+      "independent_including_arus": null,
+      "independent_including_arus_pct": null,
+      "independent_including_arus_met_80pct": null,
+      "reviewed_arus": null,
+      "announced_allocation_cad": null,
+      "note": "Annual target not yet verified in this comparison.",
+      "award_confirmed": false,
+      "comparison_documented": false,
+      "MUNID": "24015",
+      "boundary_name": "TOWN OF HALTON HILLS",
+      "category": "unknown",
+      "met_80pct": null
+    },
+    "25005": {
+      "municipality": "Hamilton",
+      "municipality_key": "hamilton",
+      "scope": "individual_target",
+      "year": 2025,
+      "in_cohort": true,
+      "target": null,
+      "official_pct": null,
+      "official_progress": null,
+      "official_met_80pct": null,
+      "new_starts_used": 2577,
+      "new_starts_pct": null,
+      "new_starts_met_80pct": null,
+      "independent_including_arus": null,
+      "independent_including_arus_pct": null,
+      "independent_including_arus_met_80pct": null,
+      "reviewed_arus": null,
+      "announced_allocation_cad": null,
+      "note": "Annual target not yet verified in this comparison.",
+      "award_confirmed": false,
+      "comparison_documented": false,
+      "MUNID": "25005",
+      "boundary_name": "CITY OF HAMILTON",
+      "category": "unknown",
+      "met_80pct": null
+    },
+    "43017": {
+      "municipality": "Innisfil",
+      "municipality_key": "innisfil",
+      "scope": "individual_target",
+      "year": 2025,
+      "in_cohort": true,
+      "target": null,
+      "official_pct": null,
+      "official_progress": null,
+      "official_met_80pct": null,
+      "new_starts_used": 59,
+      "new_starts_pct": null,
+      "new_starts_met_80pct": null,
+      "independent_including_arus": null,
+      "independent_including_arus_pct": null,
+      "independent_including_arus_met_80pct": null,
+      "reviewed_arus": null,
+      "announced_allocation_cad": null,
+      "note": "Annual target not yet verified in this comparison.",
+      "award_confirmed": false,
+      "comparison_documented": false,
+      "MUNID": "43017",
+      "boundary_name": "TOWN OF INNISFIL",
+      "category": "unknown",
+      "met_80pct": null
+    },
+    "16002": {
+      "municipality": "Kawartha Lakes",
+      "municipality_key": "kawarthalakes",
+      "scope": "individual_target",
+      "year": 2025,
+      "in_cohort": true,
+      "target": null,
+      "official_pct": null,
+      "official_progress": null,
+      "official_met_80pct": null,
+      "new_starts_used": 368,
+      "new_starts_pct": null,
+      "new_starts_met_80pct": null,
+      "independent_including_arus": null,
+      "independent_including_arus_pct": null,
+      "independent_including_arus_met_80pct": null,
+      "reviewed_arus": null,
+      "announced_allocation_cad": null,
+      "note": "Annual target not yet verified in this comparison.",
+      "award_confirmed": false,
+      "comparison_documented": false,
+      "MUNID": "16002",
+      "boundary_name": "CITY OF KAWARTHA LAKES",
+      "category": "unknown",
+      "met_80pct": null
+    },
+    "10005": {
+      "municipality": "Kingston",
+      "municipality_key": "kingston",
+      "scope": "individual_target",
+      "year": 2025,
+      "in_cohort": true,
+      "target": null,
+      "official_pct": null,
+      "official_progress": null,
+      "official_met_80pct": null,
+      "new_starts_used": 932,
+      "new_starts_pct": null,
+      "new_starts_met_80pct": null,
+      "independent_including_arus": null,
+      "independent_including_arus_pct": null,
+      "independent_including_arus_met_80pct": null,
+      "reviewed_arus": null,
+      "announced_allocation_cad": null,
+      "note": "Annual target not yet verified in this comparison.",
+      "award_confirmed": true,
+      "comparison_documented": false,
+      "MUNID": "10005",
+      "boundary_name": "CITY OF KINGSTON",
+      "category": "unknown",
+      "met_80pct": null
+    },
+    "30012": {
+      "municipality": "Kitchener",
+      "municipality_key": "kitchener",
+      "scope": "individual_target",
+      "year": 2025,
+      "in_cohort": true,
+      "target": 3500,
+      "official_pct": 85.85714285714286,
+      "official_progress": 3005,
+      "official_met_80pct": true,
+      "new_starts_used": 2516,
+      "new_starts_pct": 71.88571428571429,
+      "new_starts_met_80pct": false,
+      "independent_including_arus": 3005,
+      "independent_including_arus_pct": 85.85714285714286,
+      "independent_including_arus_met_80pct": true,
+      "reviewed_arus": 489,
+      "announced_allocation_cad": 8013600,
+      "note": "Municipal release explicitly decomposes 3,005 into 2,516 housing starts + 489 ARUs. The archived December CMHC edition has 2,416 starts, so the 100-unit vintage difference must not be called beds.",
+      "MUNID": "30012",
+      "cutoff_80pct_units": 2800,
+      "allocation_status": "official announcement, not bank-transfer audit",
+      "cmhc_december_starts": 2416,
+      "new_starts_vintage": "municipal award release",
+      "complete_residential_breakdown": true,
+      "target_source": "https://www.kitchener.ca/strategic-plans-and-projects/strategic-plan/2023-2026-strategic-plan-progress/",
+      "award_source": "https://www.kitchener.ca/news/posts/kitchener-earns-8-million-from-the-building-faster-fund-for-third-consecutive-year-of-housing-target-achievement/",
+      "award_confirmed": true,
+      "comparison_documented": true,
+      "boundary_name": "CITY OF KITCHENER",
+      "category": "below",
+      "met_80pct": false
+    },
+    "39036": {
+      "municipality": "London",
+      "municipality_key": "london",
+      "scope": "individual_target",
+      "year": 2025,
+      "in_cohort": true,
+      "target": 4700,
+      "official_pct": 89.87234042553192,
+      "official_progress": 4224,
+      "official_met_80pct": true,
+      "new_starts_used": 2553,
+      "new_starts_pct": 54.319148936170215,
+      "new_starts_met_80pct": false,
+      "independent_including_arus": null,
+      "independent_including_arus_pct": null,
+      "independent_including_arus_met_80pct": null,
+      "reviewed_arus": null,
+      "announced_allocation_cad": 11263707,
+      "note": "Only the December 2025 municipal CMHC count is available here. Difference from the award count is not attributed to institutional beds.",
+      "MUNID": "39036",
+      "cutoff_80pct_units": 3760,
+      "allocation_status": "official announcement, not bank-transfer audit",
+      "cmhc_december_starts": 2553,
+      "new_starts_vintage": "CMHC December annual edition",
+      "complete_residential_breakdown": false,
+      "target_source": "https://london.ca/sites/default/files/2026-02/2026-02-18%20%282.2%29%20Staff%20Report%20-%202025%20Annual%20Development%20Report.pdf",
+      "award_source": "https://news.ontario.ca/en/release/1007695/ontario-rewards-london-with-more-than-112-million-through-the-building-faster-fund",
+      "award_confirmed": true,
+      "comparison_documented": true,
+      "boundary_name": "CITY OF LONDON",
+      "category": "below",
+      "met_80pct": false
+    },
+    "19036": {
+      "municipality": "Markham",
+      "municipality_key": "markham",
+      "scope": "individual_target",
+      "year": 2025,
+      "in_cohort": true,
+      "target": null,
+      "official_pct": null,
+      "official_progress": null,
+      "official_met_80pct": null,
+      "new_starts_used": 2005,
+      "new_starts_pct": null,
+      "new_starts_met_80pct": null,
+      "independent_including_arus": null,
+      "independent_including_arus_pct": null,
+      "independent_including_arus_met_80pct": null,
+      "reviewed_arus": null,
+      "announced_allocation_cad": null,
+      "note": "Annual target not yet verified in this comparison.",
+      "award_confirmed": false,
+      "comparison_documented": false,
+      "MUNID": "19036",
+      "boundary_name": "CITY OF MARKHAM",
+      "category": "unknown",
+      "met_80pct": null
+    },
+    "24009": {
+      "municipality": "Milton",
+      "municipality_key": "milton",
+      "scope": "individual_target",
+      "year": 2025,
+      "in_cohort": true,
+      "target": null,
+      "official_pct": null,
+      "official_progress": null,
+      "official_met_80pct": null,
+      "new_starts_used": 2323,
+      "new_starts_pct": null,
+      "new_starts_met_80pct": null,
+      "independent_including_arus": null,
+      "independent_including_arus_pct": null,
+      "independent_including_arus_met_80pct": null,
+      "reviewed_arus": null,
+      "announced_allocation_cad": null,
+      "note": "Annual target not yet verified in this comparison.",
+      "award_confirmed": true,
+      "comparison_documented": false,
+      "MUNID": "24009",
+      "boundary_name": "TOWN OF MILTON",
+      "category": "unknown",
+      "met_80pct": null
+    },
+    "21005": {
+      "municipality": "Mississauga",
+      "municipality_key": "mississauga",
+      "scope": "individual_target",
+      "year": 2025,
+      "in_cohort": true,
+      "target": null,
+      "official_pct": null,
+      "official_progress": null,
+      "official_met_80pct": null,
+      "new_starts_used": 2129,
+      "new_starts_pct": null,
+      "new_starts_met_80pct": null,
+      "independent_including_arus": null,
+      "independent_including_arus_pct": null,
+      "independent_including_arus_met_80pct": null,
+      "reviewed_arus": null,
+      "announced_allocation_cad": null,
+      "note": "Annual target not yet verified in this comparison.",
+      "award_confirmed": false,
+      "comparison_documented": false,
+      "MUNID": "21005",
+      "boundary_name": "CITY OF MISSISSAUGA",
+      "category": "unknown",
+      "met_80pct": null
+    },
+    "43025": {
+      "municipality": "New Tecumseth",
+      "municipality_key": "newtecumseth",
+      "scope": "individual_target",
+      "year": 2025,
+      "in_cohort": true,
+      "target": null,
+      "official_pct": null,
+      "official_progress": null,
+      "official_met_80pct": null,
+      "new_starts_used": 145,
+      "new_starts_pct": null,
+      "new_starts_met_80pct": null,
+      "independent_including_arus": null,
+      "independent_including_arus_pct": null,
+      "independent_including_arus_met_80pct": null,
+      "reviewed_arus": null,
+      "announced_allocation_cad": null,
+      "note": "Annual target not yet verified in this comparison.",
+      "award_confirmed": false,
+      "comparison_documented": false,
+      "MUNID": "43025",
+      "boundary_name": "TOWN OF NEW TECUMSETH",
+      "category": "unknown",
+      "met_80pct": null
+    },
+    "19048": {
+      "municipality": "Newmarket",
+      "municipality_key": "newmarket",
+      "scope": "individual_target",
+      "year": 2025,
+      "in_cohort": true,
+      "target": null,
+      "official_pct": null,
+      "official_progress": null,
+      "official_met_80pct": null,
+      "new_starts_used": 621,
+      "new_starts_pct": null,
+      "new_starts_met_80pct": null,
+      "independent_including_arus": null,
+      "independent_including_arus_pct": null,
+      "independent_including_arus_met_80pct": null,
+      "reviewed_arus": null,
+      "announced_allocation_cad": null,
+      "note": "Annual target not yet verified in this comparison.",
+      "award_confirmed": false,
+      "comparison_documented": false,
+      "MUNID": "19048",
+      "boundary_name": "TOWN OF NEWMARKET",
+      "category": "unknown",
+      "met_80pct": null
+    },
+    "26043": {
+      "municipality": "Niagara Falls",
+      "municipality_key": "niagarafalls",
+      "scope": "individual_target",
+      "year": 2025,
+      "in_cohort": true,
+      "target": null,
+      "official_pct": null,
+      "official_progress": null,
+      "official_met_80pct": null,
+      "new_starts_used": 252,
+      "new_starts_pct": null,
+      "new_starts_met_80pct": null,
+      "independent_including_arus": null,
+      "independent_including_arus_pct": null,
+      "independent_including_arus_met_80pct": null,
+      "reviewed_arus": null,
+      "announced_allocation_cad": null,
+      "note": "Annual target not yet verified in this comparison.",
+      "award_confirmed": false,
+      "comparison_documented": false,
+      "MUNID": "26043",
+      "boundary_name": "CITY OF NIAGARA FALLS",
+      "category": "unknown",
+      "met_80pct": null
+    },
+    "28030": {
+      "municipality": "Norfolk County",
+      "municipality_key": "norfolkcounty",
+      "scope": "individual_target",
+      "year": 2025,
+      "in_cohort": true,
+      "target": null,
+      "official_pct": null,
+      "official_progress": null,
+      "official_met_80pct": null,
+      "new_starts_used": 306,
+      "new_starts_pct": null,
+      "new_starts_met_80pct": null,
+      "independent_including_arus": null,
+      "independent_including_arus_pct": null,
+      "independent_including_arus_met_80pct": null,
+      "reviewed_arus": null,
+      "announced_allocation_cad": null,
+      "note": "Annual target not yet verified in this comparison.",
+      "award_confirmed": false,
+      "comparison_documented": false,
+      "MUNID": "28030",
+      "boundary_name": "NORFOLK COUNTY",
+      "category": "unknown",
+      "met_80pct": null
+    },
+    "48044": {
+      "municipality": "North Bay",
+      "municipality_key": "northbay",
+      "scope": "individual_target",
+      "year": 2025,
+      "in_cohort": true,
+      "target": null,
+      "official_pct": null,
+      "official_progress": null,
+      "official_met_80pct": null,
+      "new_starts_used": 87,
+      "new_starts_pct": null,
+      "new_starts_met_80pct": null,
+      "independent_including_arus": null,
+      "independent_including_arus_pct": null,
+      "independent_including_arus_met_80pct": null,
+      "reviewed_arus": null,
+      "announced_allocation_cad": null,
+      "note": "Annual target not yet verified in this comparison.",
+      "award_confirmed": true,
+      "comparison_documented": false,
+      "MUNID": "48044",
+      "boundary_name": "CITY OF NORTH BAY",
+      "category": "unknown",
+      "met_80pct": null
+    },
+    "24001": {
+      "municipality": "Oakville",
+      "municipality_key": "oakville",
+      "scope": "individual_target",
+      "year": 2025,
+      "in_cohort": true,
+      "target": null,
+      "official_pct": null,
+      "official_progress": null,
+      "official_met_80pct": null,
+      "new_starts_used": 1573,
+      "new_starts_pct": null,
+      "new_starts_met_80pct": null,
+      "independent_including_arus": null,
+      "independent_including_arus_pct": null,
+      "independent_including_arus_met_80pct": null,
+      "reviewed_arus": null,
+      "announced_allocation_cad": null,
+      "note": "Annual target not yet verified in this comparison.",
+      "award_confirmed": false,
+      "comparison_documented": false,
+      "MUNID": "24001",
+      "boundary_name": "TOWN OF OAKVILLE",
+      "category": "unknown",
+      "met_80pct": null
+    },
+    "18013": {
+      "municipality": "Oshawa",
+      "municipality_key": "oshawa",
+      "scope": "individual_target",
+      "year": 2025,
+      "in_cohort": true,
+      "target": null,
+      "official_pct": null,
+      "official_progress": null,
+      "official_met_80pct": null,
+      "new_starts_used": 371,
+      "new_starts_pct": null,
+      "new_starts_met_80pct": null,
+      "independent_including_arus": null,
+      "independent_including_arus_pct": null,
+      "independent_including_arus_met_80pct": null,
+      "reviewed_arus": null,
+      "announced_allocation_cad": null,
+      "note": "Annual target not yet verified in this comparison.",
+      "award_confirmed": false,
+      "comparison_documented": false,
+      "MUNID": "18013",
+      "boundary_name": "CITY OF OSHAWA",
+      "category": "unknown",
+      "met_80pct": null
+    },
+    "6005": {
+      "municipality": "Ottawa",
+      "municipality_key": "ottawa",
+      "scope": "individual_target",
+      "year": 2025,
+      "in_cohort": true,
+      "target": null,
+      "official_pct": null,
+      "official_progress": null,
+      "official_met_80pct": null,
+      "new_starts_used": 9524,
+      "new_starts_pct": null,
+      "new_starts_met_80pct": null,
+      "independent_including_arus": null,
+      "independent_including_arus_pct": null,
+      "independent_including_arus_met_80pct": null,
+      "reviewed_arus": null,
+      "announced_allocation_cad": null,
+      "note": "Annual target not yet verified in this comparison.",
+      "award_confirmed": false,
+      "comparison_documented": false,
+      "MUNID": "6005",
+      "boundary_name": "CITY OF OTTAWA",
+      "category": "unknown",
+      "met_80pct": null
+    },
+    "15014": {
+      "municipality": "Peterborough City",
+      "municipality_key": "peterboroughcity",
+      "scope": "individual_target",
+      "year": 2025,
+      "in_cohort": true,
+      "target": null,
+      "official_pct": null,
+      "official_progress": null,
+      "official_met_80pct": null,
+      "new_starts_used": 22,
+      "new_starts_pct": null,
+      "new_starts_met_80pct": null,
+      "independent_including_arus": null,
+      "independent_including_arus_pct": null,
+      "independent_including_arus_met_80pct": null,
+      "reviewed_arus": null,
+      "announced_allocation_cad": null,
+      "note": "Annual target not yet verified in this comparison.",
+      "award_confirmed": true,
+      "comparison_documented": false,
+      "MUNID": "15014",
+      "boundary_name": "CITY OF PETERBOROUGH",
+      "category": "unknown",
+      "met_80pct": null
+    },
+    "18001": {
+      "municipality": "Pickering",
+      "municipality_key": "pickering",
+      "scope": "individual_target",
+      "year": 2025,
+      "in_cohort": true,
+      "target": null,
+      "official_pct": null,
+      "official_progress": null,
+      "official_met_80pct": null,
+      "new_starts_used": 1135,
+      "new_starts_pct": null,
+      "new_starts_met_80pct": null,
+      "independent_including_arus": null,
+      "independent_including_arus_pct": null,
+      "independent_including_arus_met_80pct": null,
+      "reviewed_arus": null,
+      "announced_allocation_cad": null,
+      "note": "Annual target not yet verified in this comparison.",
+      "award_confirmed": true,
+      "comparison_documented": false,
+      "MUNID": "18001",
+      "boundary_name": "CITY OF PICKERING",
+      "category": "unknown",
+      "met_80pct": null
+    },
+    "19038": {
+      "municipality": "Richmond Hill",
+      "municipality_key": "richmondhill",
+      "scope": "individual_target",
+      "year": 2025,
+      "in_cohort": true,
+      "target": null,
+      "official_pct": null,
+      "official_progress": null,
+      "official_met_80pct": null,
+      "new_starts_used": 1506,
+      "new_starts_pct": null,
+      "new_starts_met_80pct": null,
+      "independent_including_arus": null,
+      "independent_including_arus_pct": null,
+      "independent_including_arus_met_80pct": null,
+      "reviewed_arus": null,
+      "announced_allocation_cad": null,
+      "note": "Annual target not yet verified in this comparison.",
+      "award_confirmed": true,
+      "comparison_documented": false,
+      "MUNID": "19038",
+      "boundary_name": "CITY OF RICHMOND HILL",
+      "category": "unknown",
+      "met_80pct": null
+    },
+    "38030": {
+      "municipality": "Sarnia",
+      "municipality_key": "sarnia",
+      "scope": "individual_target",
+      "year": 2025,
+      "in_cohort": true,
+      "target": 100,
+      "official_pct": 654.0,
+      "official_progress": 654,
+      "official_met_80pct": true,
+      "new_starts_used": 299,
+      "new_starts_pct": 299.0,
+      "new_starts_met_80pct": true,
+      "independent_including_arus": null,
+      "independent_including_arus_pct": null,
+      "independent_including_arus_met_80pct": null,
+      "reviewed_arus": null,
+      "announced_allocation_cad": 400000,
+      "note": "299 conventional starts alone already exceed the 80-unit threshold; no claim that institutional additions were necessary to qualify.",
+      "MUNID": "38030",
+      "cutoff_80pct_units": 80,
+      "allocation_status": "official announcement, not bank-transfer audit",
+      "cmhc_december_starts": 299,
+      "new_starts_vintage": "CMHC December annual edition",
+      "complete_residential_breakdown": false,
+      "target_source": "https://news.ontario.ca/en/release/1007629/ontario-rewards-sarnia-with-400000-through-the-building-faster-fund",
+      "award_source": "https://news.ontario.ca/en/release/1007629/ontario-rewards-sarnia-with-400000-through-the-building-faster-fund",
+      "award_confirmed": true,
+      "comparison_documented": true,
+      "boundary_name": "CITY OF SARNIA",
+      "category": "above",
+      "met_80pct": true
+    },
+    "57061": {
+      "municipality": "Sault Ste. Marie",
+      "municipality_key": "saultstemarie",
+      "scope": "individual_target",
+      "year": 2025,
+      "in_cohort": true,
+      "target": null,
+      "official_pct": null,
+      "official_progress": null,
+      "official_met_80pct": null,
+      "new_starts_used": 253,
+      "new_starts_pct": null,
+      "new_starts_met_80pct": null,
+      "independent_including_arus": null,
+      "independent_including_arus_pct": null,
+      "independent_including_arus_met_80pct": null,
+      "reviewed_arus": null,
+      "announced_allocation_cad": null,
+      "note": "Annual target not yet verified in this comparison.",
+      "award_confirmed": true,
+      "comparison_documented": false,
+      "MUNID": "57061",
+      "boundary_name": "CITY OF SAULT STE. MARIE",
+      "category": "unknown",
+      "met_80pct": null
+    },
+    "26053": {
+      "municipality": "St. Catharines",
+      "municipality_key": "stcatharines",
+      "scope": "individual_target",
+      "year": 2025,
+      "in_cohort": true,
+      "target": null,
+      "official_pct": null,
+      "official_progress": null,
+      "official_met_80pct": null,
+      "new_starts_used": 880,
+      "new_starts_pct": null,
+      "new_starts_met_80pct": null,
+      "independent_including_arus": null,
+      "independent_including_arus_pct": null,
+      "independent_including_arus_met_80pct": null,
+      "reviewed_arus": null,
+      "announced_allocation_cad": null,
+      "note": "Annual target not yet verified in this comparison.",
+      "award_confirmed": true,
+      "comparison_documented": false,
+      "MUNID": "26053",
+      "boundary_name": "CITY OF ST. CATHARINES",
+      "category": "unknown",
+      "met_80pct": null
+    },
+    "58004": {
+      "municipality": "Thunder Bay",
+      "municipality_key": "thunderbay",
+      "scope": "individual_target",
+      "year": 2025,
+      "in_cohort": true,
+      "target": null,
+      "official_pct": null,
+      "official_progress": null,
+      "official_met_80pct": null,
+      "new_starts_used": 182,
+      "new_starts_pct": null,
+      "new_starts_met_80pct": null,
+      "independent_including_arus": null,
+      "independent_including_arus_pct": null,
+      "independent_including_arus_met_80pct": null,
+      "reviewed_arus": null,
+      "announced_allocation_cad": null,
+      "note": "Annual target not yet verified in this comparison.",
+      "award_confirmed": true,
+      "comparison_documented": false,
+      "MUNID": "58004",
+      "boundary_name": "CITY OF THUNDER BAY",
+      "category": "unknown",
+      "met_80pct": null
+    },
+    "20002": {
+      "municipality": "Toronto",
+      "municipality_key": "toronto",
+      "scope": "individual_target",
+      "year": 2025,
+      "in_cohort": true,
+      "target": null,
+      "official_pct": null,
+      "official_progress": null,
+      "official_met_80pct": null,
+      "new_starts_used": 10561,
+      "new_starts_pct": null,
+      "new_starts_met_80pct": null,
+      "independent_including_arus": null,
+      "independent_including_arus_pct": null,
+      "independent_including_arus_met_80pct": null,
+      "reviewed_arus": null,
+      "announced_allocation_cad": null,
+      "note": "Annual target not yet verified in this comparison.",
+      "award_confirmed": false,
+      "comparison_documented": false,
+      "MUNID": "20002",
+      "boundary_name": "CITY OF TORONTO",
+      "category": "unknown",
+      "met_80pct": null
+    },
+    "19028": {
+      "municipality": "Vaughan",
+      "municipality_key": "vaughan",
+      "scope": "individual_target",
+      "year": 2025,
+      "in_cohort": true,
+      "target": null,
+      "official_pct": null,
+      "official_progress": null,
+      "official_met_80pct": null,
+      "new_starts_used": 968,
+      "new_starts_pct": null,
+      "new_starts_met_80pct": null,
+      "independent_including_arus": null,
+      "independent_including_arus_pct": null,
+      "independent_including_arus_met_80pct": null,
+      "reviewed_arus": null,
+      "announced_allocation_cad": null,
+      "note": "Annual target not yet verified in this comparison.",
+      "award_confirmed": false,
+      "comparison_documented": false,
+      "MUNID": "19028",
+      "boundary_name": "CITY OF VAUGHAN",
+      "category": "unknown",
+      "met_80pct": null
+    },
+    "30016": {
+      "municipality": "Waterloo",
+      "municipality_key": "waterloo",
+      "scope": "individual_target",
+      "year": 2025,
+      "in_cohort": true,
+      "target": null,
+      "official_pct": null,
+      "official_progress": null,
+      "official_met_80pct": null,
+      "new_starts_used": 1025,
+      "new_starts_pct": null,
+      "new_starts_met_80pct": null,
+      "independent_including_arus": null,
+      "independent_including_arus_pct": null,
+      "independent_including_arus_met_80pct": null,
+      "reviewed_arus": null,
+      "announced_allocation_cad": null,
+      "note": "Annual target not yet verified in this comparison.",
+      "award_confirmed": true,
+      "comparison_documented": false,
+      "MUNID": "30016",
+      "boundary_name": "CITY OF WATERLOO",
+      "category": "unknown",
+      "met_80pct": null
+    },
+    "26032": {
+      "municipality": "Welland",
+      "municipality_key": "welland",
+      "scope": "individual_target",
+      "year": 2025,
+      "in_cohort": true,
+      "target": 430,
+      "official_pct": 122.79069767441861,
+      "official_progress": 528,
+      "official_met_80pct": true,
+      "new_starts_used": 458,
+      "new_starts_pct": 106.51162790697674,
+      "new_starts_met_80pct": true,
+      "independent_including_arus": null,
+      "independent_including_arus_pct": null,
+      "independent_including_arus_met_80pct": null,
+      "reviewed_arus": null,
+      "announced_allocation_cad": 1669317,
+      "note": "458 conventional starts alone already exceed 100% of the target. The 70-unit gap is not automatically attributed to beds.",
+      "MUNID": "26032",
+      "cutoff_80pct_units": 344,
+      "allocation_status": "official announcement, not bank-transfer audit",
+      "cmhc_december_starts": 458,
+      "new_starts_vintage": "CMHC December annual edition",
+      "complete_residential_breakdown": false,
+      "target_source": "https://www.welland.ca/news/posts/city-of-welland-receives-167m-for-exceeding-housing-targets/",
+      "award_source": "https://www.welland.ca/news/posts/city-of-welland-receives-167m-for-exceeding-housing-targets/",
+      "award_confirmed": true,
+      "comparison_documented": true,
+      "boundary_name": "CITY OF WELLAND",
+      "category": "above",
+      "met_80pct": true
+    },
+    "18009": {
+      "municipality": "Whitby",
+      "municipality_key": "whitby",
+      "scope": "individual_target",
+      "year": 2025,
+      "in_cohort": true,
+      "target": null,
+      "official_pct": null,
+      "official_progress": null,
+      "official_met_80pct": null,
+      "new_starts_used": 352,
+      "new_starts_pct": null,
+      "new_starts_met_80pct": null,
+      "independent_including_arus": null,
+      "independent_including_arus_pct": null,
+      "independent_including_arus_met_80pct": null,
+      "reviewed_arus": null,
+      "announced_allocation_cad": null,
+      "note": "Annual target not yet verified in this comparison.",
+      "award_confirmed": false,
+      "comparison_documented": false,
+      "MUNID": "18009",
+      "boundary_name": "TOWN OF WHITBY",
+      "category": "unknown",
+      "met_80pct": null
+    },
+    "19044": {
+      "municipality": "Whitchurch-Stouffville",
+      "municipality_key": "whitchurchstouffville",
+      "scope": "individual_target",
+      "year": 2025,
+      "in_cohort": true,
+      "target": null,
+      "official_pct": null,
+      "official_progress": null,
+      "official_met_80pct": null,
+      "new_starts_used": 195,
+      "new_starts_pct": null,
+      "new_starts_met_80pct": null,
+      "independent_including_arus": null,
+      "independent_including_arus_pct": null,
+      "independent_including_arus_met_80pct": null,
+      "reviewed_arus": null,
+      "announced_allocation_cad": null,
+      "note": "Annual target not yet verified in this comparison.",
+      "award_confirmed": false,
+      "comparison_documented": false,
+      "MUNID": "19044",
+      "boundary_name": "TOWN OF WHITCHURCH-STOUFFVILLE",
+      "category": "unknown",
+      "met_80pct": null
+    },
+    "37039": {
+      "municipality": "Windsor",
+      "municipality_key": "windsor",
+      "scope": "individual_target",
+      "year": 2025,
+      "in_cohort": true,
+      "target": null,
+      "official_pct": null,
+      "official_progress": null,
+      "official_met_80pct": null,
+      "new_starts_used": 397,
+      "new_starts_pct": null,
+      "new_starts_met_80pct": null,
+      "independent_including_arus": null,
+      "independent_including_arus_pct": null,
+      "independent_including_arus_met_80pct": null,
+      "reviewed_arus": null,
+      "announced_allocation_cad": null,
+      "note": "Annual target not yet verified in this comparison.",
+      "award_confirmed": false,
+      "comparison_documented": false,
+      "MUNID": "37039",
+      "boundary_name": "CITY OF WINDSOR",
+      "category": "unknown",
+      "met_80pct": null
+    },
+    "32042": {
+      "municipality": "Woodstock",
+      "municipality_key": "woodstock",
+      "scope": "individual_target",
+      "year": 2025,
+      "in_cohort": true,
+      "target": null,
+      "official_pct": null,
+      "official_progress": null,
+      "official_met_80pct": null,
+      "new_starts_used": null,
+      "new_starts_pct": null,
+      "new_starts_met_80pct": null,
+      "independent_including_arus": null,
+      "independent_including_arus_pct": null,
+      "independent_including_arus_met_80pct": null,
+      "reviewed_arus": null,
+      "announced_allocation_cad": null,
+      "note": "Annual target not yet verified in this comparison.",
+      "award_confirmed": false,
+      "comparison_documented": false,
+      "MUNID": "32042",
+      "boundary_name": "CITY OF WOODSTOCK",
+      "category": "unknown",
+      "met_80pct": null
+    },
+    "10002": {
+      "MUNID": "10002",
+      "municipality": "Frontenac Islands",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "10013": {
+      "MUNID": "10013",
+      "municipality": "South Frontenac",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "1002": {
+      "MUNID": "1002",
+      "municipality": "South Glengarry",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "10025": {
+      "MUNID": "10025",
+      "municipality": "Central Frontenac",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "10041": {
+      "MUNID": "10041",
+      "municipality": "North Frontenac",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "1009": {
+      "MUNID": "1009",
+      "municipality": "South Stormont",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "1012": {
+      "MUNID": "1012",
+      "municipality": "Cornwall",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "1016": {
+      "MUNID": "1016",
+      "municipality": "South Dundas",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "1026": {
+      "MUNID": "1026",
+      "municipality": "North Dundas",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "1037": {
+      "MUNID": "1037",
+      "municipality": "North Stormont",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "1047": {
+      "MUNID": "1047",
+      "municipality": "North Glengarry",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "11002": {
+      "MUNID": "11002",
+      "municipality": "Loyalist",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "11010": {
+      "MUNID": "11010",
+      "municipality": "Greater Napanee",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "11023": {
+      "MUNID": "11023",
+      "municipality": "Stone Mills",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "11033": {
+      "MUNID": "11033",
+      "municipality": "Addington Highlands",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "12001": {
+      "MUNID": "12001",
+      "municipality": "Tyendinaga",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "12002": {
+      "MUNID": "12002",
+      "municipality": "Deseronto",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "12010": {
+      "MUNID": "12010",
+      "municipality": "Quinte West",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "12017": {
+      "MUNID": "12017",
+      "municipality": "Stirling-Rawdon",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "12023": {
+      "MUNID": "12023",
+      "municipality": "Centre Hastings",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "12027": {
+      "MUNID": "12027",
+      "municipality": "Tweed",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "12036": {
+      "MUNID": "12036",
+      "municipality": "Madoc",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "12039": {
+      "MUNID": "12039",
+      "municipality": "Marmora And Lake",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "12048": {
+      "MUNID": "12048",
+      "municipality": "Tudor And Cashel",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "12051": {
+      "MUNID": "12051",
+      "municipality": "Limerick",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "12054": {
+      "MUNID": "12054",
+      "municipality": "Wollaston",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "12058": {
+      "MUNID": "12058",
+      "municipality": "Faraday",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "12061": {
+      "MUNID": "12061",
+      "municipality": "Bancroft",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "12067": {
+      "MUNID": "12067",
+      "municipality": "Carlow/Mayo",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "12073": {
+      "MUNID": "12073",
+      "municipality": "Hastings Highlands",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "13002": {
+      "MUNID": "13002",
+      "municipality": "Prince Edward",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "14005": {
+      "MUNID": "14005",
+      "municipality": "Brighton",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "14010": {
+      "MUNID": "14010",
+      "municipality": "Cramahe",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "14015": {
+      "MUNID": "14015",
+      "municipality": "Alnwick/Haldimand",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "14019": {
+      "MUNID": "14019",
+      "municipality": "Hamilton",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "14021": {
+      "MUNID": "14021",
+      "municipality": "Cobourg",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "14022": {
+      "MUNID": "14022",
+      "municipality": "Port Hope",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "14028": {
+      "MUNID": "14028",
+      "municipality": "Trent Hills",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "15002": {
+      "MUNID": "15002",
+      "municipality": "Asphodel-Norwood",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "15005": {
+      "MUNID": "15005",
+      "municipality": "Otonabee-South Monaghan",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "15012": {
+      "MUNID": "15012",
+      "municipality": "Cavan Monaghan",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "15017": {
+      "MUNID": "15017",
+      "municipality": "Selwyn",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "15021": {
+      "MUNID": "15021",
+      "municipality": "Douro-Dummer",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "15030": {
+      "MUNID": "15030",
+      "municipality": "Havelock-Belmont-Methuen",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "15035": {
+      "MUNID": "15035",
+      "municipality": "North Kawartha",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "15041": {
+      "MUNID": "15041",
+      "municipality": "Trent Lakes",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "18020": {
+      "MUNID": "18020",
+      "municipality": "Scugog",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "18029": {
+      "MUNID": "18029",
+      "municipality": "Uxbridge",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "18039": {
+      "MUNID": "18039",
+      "municipality": "Brock",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "19049": {
+      "MUNID": "19049",
+      "municipality": "King",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "2001": {
+      "MUNID": "2001",
+      "municipality": "East Hawkesbury",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "2005": {
+      "MUNID": "2005",
+      "municipality": "Champlain",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "2008": {
+      "MUNID": "2008",
+      "municipality": "Hawkesbury",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "2011": {
+      "MUNID": "2011",
+      "municipality": "The Nation",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "2030": {
+      "MUNID": "2030",
+      "municipality": "Alfred And Plantagenet",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "2036": {
+      "MUNID": "2036",
+      "municipality": "Clarence-Rockland",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "2044": {
+      "MUNID": "2044",
+      "municipality": "Casselman",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "2048": {
+      "MUNID": "2048",
+      "municipality": "Russell",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "22001": {
+      "MUNID": "22001",
+      "municipality": "East Garafraxa",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "22005": {
+      "MUNID": "22005",
+      "municipality": "Grand Valley",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "22008": {
+      "MUNID": "22008",
+      "municipality": "Amaranth",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "22012": {
+      "MUNID": "22012",
+      "municipality": "Mono",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "22014": {
+      "MUNID": "22014",
+      "municipality": "Orangeville",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "22016": {
+      "MUNID": "22016",
+      "municipality": "Mulmur",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "22019": {
+      "MUNID": "22019",
+      "municipality": "Melancthon",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "22021": {
+      "MUNID": "22021",
+      "municipality": "Shelburne",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "23001": {
+      "MUNID": "23001",
+      "municipality": "Puslinch",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "23005": {
+      "MUNID": "23005",
+      "municipality": "Guelph/Eramosa",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "23010": {
+      "MUNID": "23010",
+      "municipality": "Centre Wellington",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "23015": {
+      "MUNID": "23015",
+      "municipality": "Erin",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "23020": {
+      "MUNID": "23020",
+      "municipality": "Wellington North",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "23023": {
+      "MUNID": "23023",
+      "municipality": "Mapleton",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "23040": {
+      "MUNID": "23040",
+      "municipality": "Minto",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "26003": {
+      "MUNID": "26003",
+      "municipality": "Fort Erie",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "26011": {
+      "MUNID": "26011",
+      "municipality": "Port Colborne",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "26014": {
+      "MUNID": "26014",
+      "municipality": "Wainfleet",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "26021": {
+      "MUNID": "26021",
+      "municipality": "West Lincoln",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "26028": {
+      "MUNID": "26028",
+      "municipality": "Pelham",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "26037": {
+      "MUNID": "26037",
+      "municipality": "Thorold",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "26047": {
+      "MUNID": "26047",
+      "municipality": "Niagara-On-The-Lake",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "26057": {
+      "MUNID": "26057",
+      "municipality": "Lincoln",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "26065": {
+      "MUNID": "26065",
+      "municipality": "Grimsby",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "29002": {
+      "MUNID": "29002",
+      "municipality": "Brant",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "30001": {
+      "MUNID": "30001",
+      "municipality": "North Dumfries",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "30018": {
+      "MUNID": "30018",
+      "municipality": "Wilmot",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "30024": {
+      "MUNID": "30024",
+      "municipality": "Wellesley",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "30029": {
+      "MUNID": "30029",
+      "municipality": "Woolwich",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "31002": {
+      "MUNID": "31002",
+      "municipality": "Perth East",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "31008": {
+      "MUNID": "31008",
+      "municipality": "Perth South",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "31011": {
+      "MUNID": "31011",
+      "municipality": "Stratford",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "31016": {
+      "MUNID": "31016",
+      "municipality": "St. Marys",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "31017": {
+      "MUNID": "31017",
+      "municipality": "West Perth",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "31035": {
+      "MUNID": "31035",
+      "municipality": "North Perth",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "32002": {
+      "MUNID": "32002",
+      "municipality": "Norwich",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "32004": {
+      "MUNID": "32004",
+      "municipality": "Tillsonburg",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "32011": {
+      "MUNID": "32011",
+      "municipality": "South-West Oxford",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "32018": {
+      "MUNID": "32018",
+      "municipality": "Ingersoll",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "32027": {
+      "MUNID": "32027",
+      "municipality": "Zorra",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "32038": {
+      "MUNID": "32038",
+      "municipality": "East Zorra-Tavistock",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "32045": {
+      "MUNID": "32045",
+      "municipality": "Blandford-Blenheim",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "34003": {
+      "MUNID": "34003",
+      "municipality": "Bayham",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "34007": {
+      "MUNID": "34007",
+      "municipality": "Malahide",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "34011": {
+      "MUNID": "34011",
+      "municipality": "Aylmer",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "34015": {
+      "MUNID": "34015",
+      "municipality": "Central Elgin",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "34021": {
+      "MUNID": "34021",
+      "municipality": "St. Thomas",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "34024": {
+      "MUNID": "34024",
+      "municipality": "Southwold",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "34028": {
+      "MUNID": "34028",
+      "municipality": "Dutton/Dunwich",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "34035": {
+      "MUNID": "34035",
+      "municipality": "West Elgin",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "37001": {
+      "MUNID": "37001",
+      "municipality": "Pelee",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "37003": {
+      "MUNID": "37003",
+      "municipality": "Leamington",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "37008": {
+      "MUNID": "37008",
+      "municipality": "Kingsville",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "37020": {
+      "MUNID": "37020",
+      "municipality": "Essex",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "37025": {
+      "MUNID": "37025",
+      "municipality": "Amherstburg",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "37034": {
+      "MUNID": "37034",
+      "municipality": "Lasalle",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "37043": {
+      "MUNID": "37043",
+      "municipality": "Tecumseh",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "37049": {
+      "MUNID": "37049",
+      "municipality": "Lakeshore",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "38002": {
+      "MUNID": "38002",
+      "municipality": "St. Clair",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "38005": {
+      "MUNID": "38005",
+      "municipality": "Dawn-Euphemia",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "38011": {
+      "MUNID": "38011",
+      "municipality": "Brooke-Alvinston",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "38016": {
+      "MUNID": "38016",
+      "municipality": "Enniskillen",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "38018": {
+      "MUNID": "38018",
+      "municipality": "Oil Springs",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "38019": {
+      "MUNID": "38019",
+      "municipality": "Petrolia",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "38031": {
+      "MUNID": "38031",
+      "municipality": "Point Edward",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "38033": {
+      "MUNID": "38033",
+      "municipality": "Plympton-Wyoming",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "38037": {
+      "MUNID": "38037",
+      "municipality": "Lambton Shores",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "38040": {
+      "MUNID": "38040",
+      "municipality": "Warwick",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "39002": {
+      "MUNID": "39002",
+      "municipality": "Newbury",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "39003": {
+      "MUNID": "39003",
+      "municipality": "Southwest Middlesex",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "39010": {
+      "MUNID": "39010",
+      "municipality": "Adelaide-Metcalfe",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "39013": {
+      "MUNID": "39013",
+      "municipality": "Strathroy-Caradoc",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "39020": {
+      "MUNID": "39020",
+      "municipality": "Middlesex Centre",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "39025": {
+      "MUNID": "39025",
+      "municipality": "Thames Centre",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "39041": {
+      "MUNID": "39041",
+      "municipality": "North Middlesex",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "39057": {
+      "MUNID": "39057",
+      "municipality": "Lucan Biddulph",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "40003": {
+      "MUNID": "40003",
+      "municipality": "South Huron",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "40010": {
+      "MUNID": "40010",
+      "municipality": "Bluewater",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "40015": {
+      "MUNID": "40015",
+      "municipality": "Huron East",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "40025": {
+      "MUNID": "40025",
+      "municipality": "Central Huron",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "40028": {
+      "MUNID": "40028",
+      "municipality": "Goderich",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "40030": {
+      "MUNID": "40030",
+      "municipality": "Ashfield-Colborne-Wawanosh",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "40046": {
+      "MUNID": "40046",
+      "municipality": "Howick",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "40048": {
+      "MUNID": "40048",
+      "municipality": "Morris-Turnberry",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "40050": {
+      "MUNID": "40050",
+      "municipality": "North Huron",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "41004": {
+      "MUNID": "41004",
+      "municipality": "South Bruce",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "41010": {
+      "MUNID": "41010",
+      "municipality": "Huron-Kinloss",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "41020": {
+      "MUNID": "41020",
+      "municipality": "Kincardine",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "41030": {
+      "MUNID": "41030",
+      "municipality": "Brockton",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "41037": {
+      "MUNID": "41037",
+      "municipality": "Arran-Elderslie",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "41043": {
+      "MUNID": "41043",
+      "municipality": "Saugeen Shores",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "41053": {
+      "MUNID": "41053",
+      "municipality": "South Bruce Peninsula",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "41061": {
+      "MUNID": "41061",
+      "municipality": "Northern Bruce Peninsula",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "42004": {
+      "MUNID": "42004",
+      "municipality": "West Grey",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "42005": {
+      "MUNID": "42005",
+      "municipality": "Southgate",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "42013": {
+      "MUNID": "42013",
+      "municipality": "Grey Highlands",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "42029": {
+      "MUNID": "42029",
+      "municipality": "Hanover",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "42031": {
+      "MUNID": "42031",
+      "municipality": "Chatsworth",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "42041": {
+      "MUNID": "42041",
+      "municipality": "The Blue Mountains",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "42047": {
+      "MUNID": "42047",
+      "municipality": "Meaford",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "42055": {
+      "MUNID": "42055",
+      "municipality": "Georgian Bluffs",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "42059": {
+      "MUNID": "42059",
+      "municipality": "Owen Sound",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "43002": {
+      "MUNID": "43002",
+      "municipality": "Adjala-Tosorontio",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "43021": {
+      "MUNID": "43021",
+      "municipality": "Essa",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "43030": {
+      "MUNID": "43030",
+      "municipality": "Clearview",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "43031": {
+      "MUNID": "43031",
+      "municipality": "Collingwood",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "43040": {
+      "MUNID": "43040",
+      "municipality": "Springwater",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "43047": {
+      "MUNID": "43047",
+      "municipality": "Oro-Medonte",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "43050": {
+      "MUNID": "43050",
+      "municipality": "Ramara",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "43052": {
+      "MUNID": "43052",
+      "municipality": "Orillia",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "43064": {
+      "MUNID": "43064",
+      "municipality": "Wasaga Beach",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "43068": {
+      "MUNID": "43068",
+      "municipality": "Tiny",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "43070": {
+      "MUNID": "43070",
+      "municipality": "Tay",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "43072": {
+      "MUNID": "43072",
+      "municipality": "Penetanguishene",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "43074": {
+      "MUNID": "43074",
+      "municipality": "Midland",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "43080": {
+      "MUNID": "43080",
+      "municipality": "Severn",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "44002": {
+      "MUNID": "44002",
+      "municipality": "Gravenhurst",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "44018": {
+      "MUNID": "44018",
+      "municipality": "Bracebridge",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "44027": {
+      "MUNID": "44027",
+      "municipality": "Lake Of Bays",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "44042": {
+      "MUNID": "44042",
+      "municipality": "Huntsville",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "44053": {
+      "MUNID": "44053",
+      "municipality": "Muskoka Lakes",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "44065": {
+      "MUNID": "44065",
+      "municipality": "Georgian Bay",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "46002": {
+      "MUNID": "46002",
+      "municipality": "Highlands East",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "46011": {
+      "MUNID": "46011",
+      "municipality": "Minden Hills",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "46020": {
+      "MUNID": "46020",
+      "municipality": "Algonquin Highlands",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "46024": {
+      "MUNID": "46024",
+      "municipality": "Dysart Et Al",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "47002": {
+      "MUNID": "47002",
+      "municipality": "Arnprior",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "47003": {
+      "MUNID": "47003",
+      "municipality": "Mcnab/Braeside",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "47007": {
+      "MUNID": "47007",
+      "municipality": "Greater Madawaska",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "47015": {
+      "MUNID": "47015",
+      "municipality": "Bonnechere Valley",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "47018": {
+      "MUNID": "47018",
+      "municipality": "Brudenell, Lyndoch And Raglan",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "47023": {
+      "MUNID": "47023",
+      "municipality": "Madawaska Valley",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "47030": {
+      "MUNID": "47030",
+      "municipality": "Killaloe, Hagarty And Richards",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "47041": {
+      "MUNID": "47041",
+      "municipality": "Admaston/Bromley",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "47046": {
+      "MUNID": "47046",
+      "municipality": "Horton",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "47048": {
+      "MUNID": "47048",
+      "municipality": "Renfrew",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "47050": {
+      "MUNID": "47050",
+      "municipality": "Whitewater Region",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "47063": {
+      "MUNID": "47063",
+      "municipality": "Laurentian Valley",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "47064": {
+      "MUNID": "47064",
+      "municipality": "Pembroke",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "47068": {
+      "MUNID": "47068",
+      "municipality": "North Algona Wilberforce",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "47077": {
+      "MUNID": "47077",
+      "municipality": "Petawawa",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "47091": {
+      "MUNID": "47091",
+      "municipality": "Laurentian Hills",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "47096": {
+      "MUNID": "47096",
+      "municipality": "Deep River",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "47098": {
+      "MUNID": "47098",
+      "municipality": "Head, Clara And Maria",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "48001": {
+      "MUNID": "48001",
+      "municipality": "South Algonquin",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "48017": {
+      "MUNID": "48017",
+      "municipality": "Papineau-Cameron",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "48019": {
+      "MUNID": "48019",
+      "municipality": "Mattawan",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "48021": {
+      "MUNID": "48021",
+      "municipality": "Mattawa",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "48022": {
+      "MUNID": "48022",
+      "municipality": "Calvin",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "48026": {
+      "MUNID": "48026",
+      "municipality": "Bonfield",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "48031": {
+      "MUNID": "48031",
+      "municipality": "Chisholm",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "48034": {
+      "MUNID": "48034",
+      "municipality": "East Ferris",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "48050": {
+      "MUNID": "48050",
+      "municipality": "West Nipissing",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "48069": {
+      "MUNID": "48069",
+      "municipality": "Temagami",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "49003": {
+      "MUNID": "49003",
+      "municipality": "Seguin",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "49005": {
+      "MUNID": "49005",
+      "municipality": "The Archipelago",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "49012": {
+      "MUNID": "49012",
+      "municipality": "Mcmurrich/Monteith",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "49014": {
+      "MUNID": "49014",
+      "municipality": "Perry",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "49018": {
+      "MUNID": "49018",
+      "municipality": "Kearney",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "49019": {
+      "MUNID": "49019",
+      "municipality": "Armour",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "49022": {
+      "MUNID": "49022",
+      "municipality": "Burk'S Falls",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "49024": {
+      "MUNID": "49024",
+      "municipality": "Ryerson",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "49028": {
+      "MUNID": "49028",
+      "municipality": "Mckellar",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "49031": {
+      "MUNID": "49031",
+      "municipality": "Mcdougall",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "49032": {
+      "MUNID": "49032",
+      "municipality": "Parry Sound",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "49036": {
+      "MUNID": "49036",
+      "municipality": "Carling",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "49039": {
+      "MUNID": "49039",
+      "municipality": "Whitestone",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "49041": {
+      "MUNID": "49041",
+      "municipality": "Magnetawan",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "49046": {
+      "MUNID": "49046",
+      "municipality": "Strong",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "49048": {
+      "MUNID": "49048",
+      "municipality": "Sundridge",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "49051": {
+      "MUNID": "49051",
+      "municipality": "Joly",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "49054": {
+      "MUNID": "49054",
+      "municipality": "Machar",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "49056": {
+      "MUNID": "49056",
+      "municipality": "South River",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "49058": {
+      "MUNID": "49058",
+      "municipality": "Powassan",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "49066": {
+      "MUNID": "49066",
+      "municipality": "Callander",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "49071": {
+      "MUNID": "49071",
+      "municipality": "Nipissing",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "51001": {
+      "MUNID": "51001",
+      "municipality": "Tehkummah",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "51009": {
+      "MUNID": "51009",
+      "municipality": "Central Manitoulin",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "51011": {
+      "MUNID": "51011",
+      "municipality": "Assiginack",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "51015": {
+      "MUNID": "51015",
+      "municipality": "Northeastern Manitoulin And The Islands",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "51021": {
+      "MUNID": "51021",
+      "municipality": "Billings",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "51024": {
+      "MUNID": "51024",
+      "municipality": "Gordon / Barrie Island",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "51026": {
+      "MUNID": "51026",
+      "municipality": "Gore Bay",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "51028": {
+      "MUNID": "51028",
+      "municipality": "Burpee And Mills",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "51034": {
+      "MUNID": "51034",
+      "municipality": "Cockburn Island",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "52001": {
+      "MUNID": "52001",
+      "municipality": "French River",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "52003": {
+      "MUNID": "52003",
+      "municipality": "Killarney",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "52004": {
+      "MUNID": "52004",
+      "municipality": "St.-Charles",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "52007": {
+      "MUNID": "52007",
+      "municipality": "Markstay-Warren",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "52019": {
+      "MUNID": "52019",
+      "municipality": "Sables-Spanish Rivers",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "52026": {
+      "MUNID": "52026",
+      "municipality": "Espanola",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "52028": {
+      "MUNID": "52028",
+      "municipality": "Baldwin",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "52031": {
+      "MUNID": "52031",
+      "municipality": "Nairn And Hyman",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "52092": {
+      "MUNID": "52092",
+      "municipality": "Chapleau",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "54001": {
+      "MUNID": "54001",
+      "municipality": "Coleman",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "54006": {
+      "MUNID": "54006",
+      "municipality": "Latchford",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "54008": {
+      "MUNID": "54008",
+      "municipality": "Cobalt",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "54010": {
+      "MUNID": "54010",
+      "municipality": "Temiskaming Shores",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "54014": {
+      "MUNID": "54014",
+      "municipality": "Harris",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "54021": {
+      "MUNID": "54021",
+      "municipality": "Hudson",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "54024": {
+      "MUNID": "54024",
+      "municipality": "Kerns",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "54026": {
+      "MUNID": "54026",
+      "municipality": "Harley",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "54029": {
+      "MUNID": "54029",
+      "municipality": "Casey",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "54032": {
+      "MUNID": "54032",
+      "municipality": "Brethour",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "54034": {
+      "MUNID": "54034",
+      "municipality": "Hilliard",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "54036": {
+      "MUNID": "54036",
+      "municipality": "Armstrong",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "54038": {
+      "MUNID": "54038",
+      "municipality": "Thornloe",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "54042": {
+      "MUNID": "54042",
+      "municipality": "James",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "54047": {
+      "MUNID": "54047",
+      "municipality": "Charlton And Dack",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "54049": {
+      "MUNID": "54049",
+      "municipality": "Evanturel",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "54052": {
+      "MUNID": "54052",
+      "municipality": "Englehart",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "54054": {
+      "MUNID": "54054",
+      "municipality": "Chamberlain",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "54056": {
+      "MUNID": "54056",
+      "municipality": "Matachewan",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "54058": {
+      "MUNID": "54058",
+      "municipality": "Mcgarry",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "54062": {
+      "MUNID": "54062",
+      "municipality": "Larder Lake",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "54066": {
+      "MUNID": "54066",
+      "municipality": "Gauthier",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "54068": {
+      "MUNID": "54068",
+      "municipality": "Kirkland Lake",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "56014": {
+      "MUNID": "56014",
+      "municipality": "Black River-Matheson",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "56027": {
+      "MUNID": "56027",
+      "municipality": "Timmins",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "56031": {
+      "MUNID": "56031",
+      "municipality": "Iroquois Falls",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "56037": {
+      "MUNID": "56037",
+      "municipality": "Cochrane",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "56048": {
+      "MUNID": "56048",
+      "municipality": "Smooth Rock Falls",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "56052": {
+      "MUNID": "56052",
+      "municipality": "Fauquier-Strickland",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "56056": {
+      "MUNID": "56056",
+      "municipality": "Moonbeam",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "56065": {
+      "MUNID": "56065",
+      "municipality": "Moosonee",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "56066": {
+      "MUNID": "56066",
+      "municipality": "Kapuskasing",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "56070": {
+      "MUNID": "56070",
+      "municipality": "Val Rita-Harty",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "56073": {
+      "MUNID": "56073",
+      "municipality": "Opasatika",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "56076": {
+      "MUNID": "56076",
+      "municipality": "Hearst",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "56077": {
+      "MUNID": "56077",
+      "municipality": "Mattice-Val Côté",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "57001": {
+      "MUNID": "57001",
+      "municipality": "Jocelyn",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "57004": {
+      "MUNID": "57004",
+      "municipality": "Hilton",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "57006": {
+      "MUNID": "57006",
+      "municipality": "Hilton Beach",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "57008": {
+      "MUNID": "57008",
+      "municipality": "St. Joseph",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "57011": {
+      "MUNID": "57011",
+      "municipality": "Laird",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "57014": {
+      "MUNID": "57014",
+      "municipality": "Tarbutt",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "57016": {
+      "MUNID": "57016",
+      "municipality": "Johnson",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "57019": {
+      "MUNID": "57019",
+      "municipality": "Plummer Additional",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "57021": {
+      "MUNID": "57021",
+      "municipality": "Bruce Mines",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "57023": {
+      "MUNID": "57023",
+      "municipality": "Huron Shores",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "57028": {
+      "MUNID": "57028",
+      "municipality": "Thessalon",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "57038": {
+      "MUNID": "57038",
+      "municipality": "Blind River",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "57039": {
+      "MUNID": "57039",
+      "municipality": "Spanish",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "57040": {
+      "MUNID": "57040",
+      "municipality": "The North Shore",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "57041": {
+      "MUNID": "57041",
+      "municipality": "Elliot Lake",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "57051": {
+      "MUNID": "57051",
+      "municipality": "Macdonald, Meredith And Aberdeen Additional",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "57066": {
+      "MUNID": "57066",
+      "municipality": "Prince",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "57076": {
+      "MUNID": "57076",
+      "municipality": "Wawa",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "57079": {
+      "MUNID": "57079",
+      "municipality": "Dubreuilville",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "57091": {
+      "MUNID": "57091",
+      "municipality": "White River",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "57096": {
+      "MUNID": "57096",
+      "municipality": "Hornepayne",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "58001": {
+      "MUNID": "58001",
+      "municipality": "Neebing",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "58007": {
+      "MUNID": "58007",
+      "municipality": "Oliver Paipoonge",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "58012": {
+      "MUNID": "58012",
+      "municipality": "Gillies",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "58016": {
+      "MUNID": "58016",
+      "municipality": "O'Connor",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "58019": {
+      "MUNID": "58019",
+      "municipality": "Conmee",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "58028": {
+      "MUNID": "58028",
+      "municipality": "Shuniah",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "58034": {
+      "MUNID": "58034",
+      "municipality": "Dorion",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "58041": {
+      "MUNID": "58041",
+      "municipality": "Red Rock",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "58044": {
+      "MUNID": "58044",
+      "municipality": "Nipigon",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "58051": {
+      "MUNID": "58051",
+      "municipality": "Schreiber",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "58054": {
+      "MUNID": "58054",
+      "municipality": "Terrace Bay",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "58058": {
+      "MUNID": "58058",
+      "municipality": "Greenstone",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "58059": {
+      "MUNID": "58059",
+      "municipality": "Marathon",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "58066": {
+      "MUNID": "58066",
+      "municipality": "Manitouwadge",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "59001": {
+      "MUNID": "59001",
+      "municipality": "Atikokan",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "59011": {
+      "MUNID": "59011",
+      "municipality": "Alberton",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "59012": {
+      "MUNID": "59012",
+      "municipality": "Fort Frances",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "59016": {
+      "MUNID": "59016",
+      "municipality": "La Vallee",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "59019": {
+      "MUNID": "59019",
+      "municipality": "Emo",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "59024": {
+      "MUNID": "59024",
+      "municipality": "Chapple",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "59031": {
+      "MUNID": "59031",
+      "municipality": "Morley",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "59040": {
+      "MUNID": "59040",
+      "municipality": "Dawson",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "59042": {
+      "MUNID": "59042",
+      "municipality": "Rainy River",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "59045": {
+      "MUNID": "59045",
+      "municipality": "Lake Of The Woods",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "60001": {
+      "MUNID": "60001",
+      "municipality": "Ignace",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "60008": {
+      "MUNID": "60008",
+      "municipality": "Sioux Narrows-Nestor Falls",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "60011": {
+      "MUNID": "60011",
+      "municipality": "Kenora",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "60021": {
+      "MUNID": "60021",
+      "municipality": "Machin",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "60025": {
+      "MUNID": "60025",
+      "municipality": "Dryden",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "60034": {
+      "MUNID": "60034",
+      "municipality": "Sioux Lookout",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "60040": {
+      "MUNID": "60040",
+      "municipality": "Red Lake",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "60042": {
+      "MUNID": "60042",
+      "municipality": "Ear Falls",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "60049": {
+      "MUNID": "60049",
+      "municipality": "Pickle Lake",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "7003": {
+      "MUNID": "7003",
+      "municipality": "Edwardsburgh/Cardinal",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "7006": {
+      "MUNID": "7006",
+      "municipality": "Augusta",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "7008": {
+      "MUNID": "7008",
+      "municipality": "Prescott",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "7011": {
+      "MUNID": "7011",
+      "municipality": "Elizabethtown-Kitley",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "7015": {
+      "MUNID": "7015",
+      "municipality": "Brockville",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "7017": {
+      "MUNID": "7017",
+      "municipality": "Front Of Yonge",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "7019": {
+      "MUNID": "7019",
+      "municipality": "Leeds And The Thousand Islands",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "7024": {
+      "MUNID": "7024",
+      "municipality": "Gananoque",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "7030": {
+      "MUNID": "7030",
+      "municipality": "Rideau Lakes",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "7033": {
+      "MUNID": "7033",
+      "municipality": "Westport",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "7040": {
+      "MUNID": "7040",
+      "municipality": "Athens",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "7050": {
+      "MUNID": "7050",
+      "municipality": "Merrickville-Wolford",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "7055": {
+      "MUNID": "7055",
+      "municipality": "North Grenville",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "9001": {
+      "MUNID": "9001",
+      "municipality": "Montague",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "9004": {
+      "MUNID": "9004",
+      "municipality": "Smiths Falls",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "9007": {
+      "MUNID": "9007",
+      "municipality": "Drummond/North Elmsley",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "9010": {
+      "MUNID": "9010",
+      "municipality": "Tay Valley",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "9021": {
+      "MUNID": "9021",
+      "municipality": "Perth",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "9024": {
+      "MUNID": "9024",
+      "municipality": "Beckwith",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "9028": {
+      "MUNID": "9028",
+      "municipality": "Carleton Place",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "9030": {
+      "MUNID": "9030",
+      "municipality": "Mississippi Mills",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    },
+    "9033": {
+      "MUNID": "9033",
+      "municipality": "Lanark Highlands",
+      "in_cohort": false,
+      "award_confirmed": false,
+      "comparison_documented": false
+    }
+  },
+  "summary": {
+    "year": 2025,
+    "documented_award_cases": 4,
+    "program_cohort": 50,
+    "announced_allocations_in_sample_cad": 21346624,
+    "below_80pct_if_new_construction_only": [
+      "London",
+      "Kitchener"
+    ],
+    "announced_allocations_in_new_construction_counterfactual_cad": 19277307,
+    "complete_independent_unit_breakdown_count": 1,
+    "proven_bed_dependent_award_count": null,
+    "interpretation": "Counterfactual new-construction-only comparison, not a finding of improper payments. Independent ARUs can house families and must not be called institutional beds."
+  },
+  "colors": {
+    "above": "#18856c",
+    "below": "#d6545b",
+    "unknown": "#d6b76c",
+    "outside": "#d8dde2"
+  },
+  "confirmed": 18,
+  "provinceView": "-10 -10 1020 1029.5760863078922",
+  "southView": "533.5609114419314 569.2308190001995 548.2859064479743 460.1319689642844"
+}

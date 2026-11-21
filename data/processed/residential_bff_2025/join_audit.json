@@ -1,0 +1,529 @@
+{
+  "program": "Ontario Building Faster Fund",
+  "year": 2025,
+  "projection": "EPSG:3347",
+  "source": {
+    "year": 2025,
+    "purpose": "Residential-only counterfactual and official BFF allocations",
+    "comparison_source": "data/processed/residential_bff_2025/municipal_comparison.json",
+    "award_source": "data/processed/bff_2025/municipal_evidence.json",
+    "residential_source": "data/processed/residential_2025/municipal_units.json"
+  },
+  "source_records": 50,
+  "municipalities_with_targets": 50,
+  "municipalities_matched": 50,
+  "municipal_boundary_count": 414,
+  "raw_boundary_features": 685,
+  "geometry_repairs_for_display": 248,
+  "collapsed_features_excluded": 1,
+  "excluded_aggregate_rows": [],
+  "unmatched": [],
+  "duplicates": [],
+  "matches": [
+    {
+      "municipality": "Ajax",
+      "normalized_name": "ajax",
+      "MUNID": "18005",
+      "boundary_name": "TOWN OF AJAX",
+      "candidate_ids_before_override": [
+        "18005"
+      ],
+      "method": "unique_normalized_name"
+    },
+    {
+      "municipality": "Aurora",
+      "normalized_name": "aurora",
+      "MUNID": "19046",
+      "boundary_name": "TOWN OF AURORA",
+      "candidate_ids_before_override": [
+        "19046"
+      ],
+      "method": "unique_normalized_name"
+    },
+    {
+      "municipality": "Barrie",
+      "normalized_name": "barrie",
+      "MUNID": "43042",
+      "boundary_name": "CITY OF BARRIE",
+      "candidate_ids_before_override": [
+        "43042"
+      ],
+      "method": "unique_normalized_name"
+    },
+    {
+      "municipality": "Belleville",
+      "normalized_name": "belleville",
+      "MUNID": "12005",
+      "boundary_name": "CITY OF BELLEVILLE",
+      "candidate_ids_before_override": [
+        "12005"
+      ],
+      "method": "unique_normalized_name"
+    },
+    {
+      "municipality": "Bradford West Gwillimbury",
+      "normalized_name": "bradfordwestgwillimbury",
+      "MUNID": "43013",
+      "boundary_name": "TOWN OF BRADFORD WEST GWILLIMBURY",
+      "candidate_ids_before_override": [
+        "43013"
+      ],
+      "method": "unique_normalized_name"
+    },
+    {
+      "municipality": "Brampton",
+      "normalized_name": "brampton",
+      "MUNID": "21010",
+      "boundary_name": "CITY OF BRAMPTON",
+      "candidate_ids_before_override": [
+        "21010"
+      ],
+      "method": "unique_normalized_name"
+    },
+    {
+      "municipality": "Brantford",
+      "normalized_name": "brantford",
+      "MUNID": "29006",
+      "boundary_name": "CITY OF BRANTFORD",
+      "candidate_ids_before_override": [
+        "29006"
+      ],
+      "method": "unique_normalized_name"
+    },
+    {
+      "municipality": "Burlington",
+      "normalized_name": "burlington",
+      "MUNID": "24002",
+      "boundary_name": "CITY OF BURLINGTON",
+      "candidate_ids_before_override": [
+        "24002"
+      ],
+      "method": "unique_normalized_name"
+    },
+    {
+      "municipality": "Caledon",
+      "normalized_name": "caledon",
+      "MUNID": "21024",
+      "boundary_name": "TOWN OF CALEDON",
+      "candidate_ids_before_override": [
+        "21024"
+      ],
+      "method": "unique_normalized_name"
+    },
+    {
+      "municipality": "Cambridge",
+      "normalized_name": "cambridge",
+      "MUNID": "30006",
+      "boundary_name": "CITY OF CAMBRIDGE",
+      "candidate_ids_before_override": [
+        "30006"
+      ],
+      "method": "unique_normalized_name"
+    },
+    {
+      "municipality": "Chatham-Kent",
+      "normalized_name": "chathamkent",
+      "MUNID": "36003",
+      "boundary_name": "MUNICIPALITY OF CHATHAM-KENT",
+      "candidate_ids_before_override": [
+        "36003"
+      ],
+      "method": "unique_normalized_name"
+    },
+    {
+      "municipality": "Clarington",
+      "normalized_name": "clarington",
+      "MUNID": "18017",
+      "boundary_name": "MUNICIPALITY OF CLARINGTON",
+      "candidate_ids_before_override": [
+        "18017"
+      ],
+      "method": "unique_normalized_name"
+    },
+    {
+      "municipality": "East Gwillimbury",
+      "normalized_name": "eastgwillimbury",
+      "MUNID": "19054",
+      "boundary_name": "TOWN OF EAST GWILLIMBURY",
+      "candidate_ids_before_override": [
+        "19054"
+      ],
+      "method": "unique_normalized_name"
+    },
+    {
+      "municipality": "Georgina",
+      "normalized_name": "georgina",
+      "MUNID": "19070",
+      "boundary_name": "TOWN OF GEORGINA",
+      "candidate_ids_before_override": [
+        "19070"
+      ],
+      "method": "unique_normalized_name"
+    },
+    {
+      "municipality": "Greater Sudbury",
+      "normalized_name": "greatersudbury",
+      "MUNID": "53005",
+      "boundary_name": "CITY OF GREATER SUDBURY",
+      "candidate_ids_before_override": [
+        "53005"
+      ],
+      "method": "unique_normalized_name"
+    },
+    {
+      "municipality": "Guelph",
+      "normalized_name": "guelph",
+      "MUNID": "23008",
+      "boundary_name": "CITY OF GUELPH",
+      "candidate_ids_before_override": [
+        "23008"
+      ],
+      "method": "unique_normalized_name"
+    },
+    {
+      "municipality": "Haldimand County",
+      "normalized_name": "haldimandcounty",
+      "MUNID": "28005",
+      "boundary_name": "HALDIMAND COUNTY",
+      "candidate_ids_before_override": [
+        "28005"
+      ],
+      "method": "unique_normalized_name"
+    },
+    {
+      "municipality": "Halton Hills",
+      "normalized_name": "haltonhills",
+      "MUNID": "24015",
+      "boundary_name": "TOWN OF HALTON HILLS",
+      "candidate_ids_before_override": [
+        "24015"
+      ],
+      "method": "unique_normalized_name"
+    },
+    {
+      "municipality": "Hamilton",
+      "normalized_name": "hamilton",
+      "MUNID": "25005",
+      "boundary_name": "CITY OF HAMILTON",
+      "candidate_ids_before_override": [
+        "14019",
+        "25005"
+      ],
+      "method": "reviewed_municipal_identifier"
+    },
+    {
+      "municipality": "Innisfil",
+      "normalized_name": "innisfil",
+      "MUNID": "43017",
+      "boundary_name": "TOWN OF INNISFIL",
+      "candidate_ids_before_override": [
+        "43017"
+      ],
+      "method": "unique_normalized_name"
+    },
+    {
+      "municipality": "Kawartha Lakes",
+      "normalized_name": "kawarthalakes",
+      "MUNID": "16002",
+      "boundary_name": "CITY OF KAWARTHA LAKES",
+      "candidate_ids_before_override": [
+        "16002"
+      ],
+      "method": "unique_normalized_name"
+    },
+    {
+      "municipality": "Kingston",
+      "normalized_name": "kingston",
+      "MUNID": "10005",
+      "boundary_name": "CITY OF KINGSTON",
+      "candidate_ids_before_override": [
+        "10005"
+      ],
+      "method": "unique_normalized_name"
+    },
+    {
+      "municipality": "Kitchener",
+      "normalized_name": "kitchener",
+      "MUNID": "30012",
+      "boundary_name": "CITY OF KITCHENER",
+      "candidate_ids_before_override": [
+        "30012"
+      ],
+      "method": "unique_normalized_name"
+    },
+    {
+      "municipality": "London",
+      "normalized_name": "london",
+      "MUNID": "39036",
+      "boundary_name": "CITY OF LONDON",
+      "candidate_ids_before_override": [
+        "39036"
+      ],
+      "method": "unique_normalized_name"
+    },
+    {
+      "municipality": "Markham",
+      "normalized_name": "markham",
+      "MUNID": "19036",
+      "boundary_name": "CITY OF MARKHAM",
+      "candidate_ids_before_override": [
+        "19036"
+      ],
+      "method": "unique_normalized_name"
+    },
+    {
+      "municipality": "Milton",
+      "normalized_name": "milton",
+      "MUNID": "24009",
+      "boundary_name": "TOWN OF MILTON",
+      "candidate_ids_before_override": [
+        "24009"
+      ],
+      "method": "unique_normalized_name"
+    },
+    {
+      "municipality": "Mississauga",
+      "normalized_name": "mississauga",
+      "MUNID": "21005",
+      "boundary_name": "CITY OF MISSISSAUGA",
+      "candidate_ids_before_override": [
+        "21005"
+      ],
+      "method": "unique_normalized_name"
+    },
+    {
+      "municipality": "New Tecumseth",
+      "normalized_name": "newtecumseth",
+      "MUNID": "43025",
+      "boundary_name": "TOWN OF NEW TECUMSETH",
+      "candidate_ids_before_override": [
+        "43025"
+      ],
+      "method": "unique_normalized_name"
+    },
+    {
+      "municipality": "Newmarket",
+      "normalized_name": "newmarket",
+      "MUNID": "19048",
+      "boundary_name": "TOWN OF NEWMARKET",
+      "candidate_ids_before_override": [
+        "19048"
+      ],
+      "method": "unique_normalized_name"
+    },
+    {
+      "municipality": "Niagara Falls",
+      "normalized_name": "niagarafalls",
+      "MUNID": "26043",
+      "boundary_name": "CITY OF NIAGARA FALLS",
+      "candidate_ids_before_override": [
+        "26043"
+      ],
+      "method": "unique_normalized_name"
+    },
+    {
+      "municipality": "Norfolk County",
+      "normalized_name": "norfolkcounty",
+      "MUNID": "28030",
+      "boundary_name": "NORFOLK COUNTY",
+      "candidate_ids_before_override": [
+        "28030"
+      ],
+      "method": "unique_normalized_name"
+    },
+    {
+      "municipality": "North Bay",
+      "normalized_name": "northbay",
+      "MUNID": "48044",
+      "boundary_name": "CITY OF NORTH BAY",
+      "candidate_ids_before_override": [
+        "48044"
+      ],
+      "method": "unique_normalized_name"
+    },
+    {
+      "municipality": "Oakville",
+      "normalized_name": "oakville",
+      "MUNID": "24001",
+      "boundary_name": "TOWN OF OAKVILLE",
+      "candidate_ids_before_override": [
+        "24001"
+      ],
+      "method": "unique_normalized_name"
+    },
+    {
+      "municipality": "Oshawa",
+      "normalized_name": "oshawa",
+      "MUNID": "18013",
+      "boundary_name": "CITY OF OSHAWA",
+      "candidate_ids_before_override": [
+        "18013"
+      ],
+      "method": "unique_normalized_name"
+    },
+    {
+      "municipality": "Ottawa",
+      "normalized_name": "ottawa",
+      "MUNID": "6005",
+      "boundary_name": "CITY OF OTTAWA",
+      "candidate_ids_before_override": [
+        "6005"
+      ],
+      "method": "unique_normalized_name"
+    },
+    {
+      "municipality": "Peterborough City",
+      "normalized_name": "peterboroughcity",
+      "MUNID": "15014",
+      "boundary_name": "CITY OF PETERBOROUGH",
+      "candidate_ids_before_override": [],
+      "method": "reviewed_municipal_identifier"
+    },
+    {
+      "municipality": "Pickering",
+      "normalized_name": "pickering",
+      "MUNID": "18001",
+      "boundary_name": "CITY OF PICKERING",
+      "candidate_ids_before_override": [
+        "18001"
+      ],
+      "method": "unique_normalized_name"
+    },
+    {
+      "municipality": "Richmond Hill",
+      "normalized_name": "richmondhill",
+      "MUNID": "19038",
+      "boundary_name": "CITY OF RICHMOND HILL",
+      "candidate_ids_before_override": [
+        "19038"
+      ],
+      "method": "unique_normalized_name"
+    },
+    {
+      "municipality": "Sarnia",
+      "normalized_name": "sarnia",
+      "MUNID": "38030",
+      "boundary_name": "CITY OF SARNIA",
+      "candidate_ids_before_override": [
+        "38030"
+      ],
+      "method": "unique_normalized_name"
+    },
+    {
+      "municipality": "Sault Ste. Marie",
+      "normalized_name": "saultstemarie",
+      "MUNID": "57061",
+      "boundary_name": "CITY OF SAULT STE. MARIE",
+      "candidate_ids_before_override": [
+        "57061"
+      ],
+      "method": "unique_normalized_name"
+    },
+    {
+      "municipality": "St. Catharines",
+      "normalized_name": "stcatharines",
+      "MUNID": "26053",
+      "boundary_name": "CITY OF ST. CATHARINES",
+      "candidate_ids_before_override": [
+        "26053"
+      ],
+      "method": "unique_normalized_name"
+    },
+    {
+      "municipality": "Thunder Bay",
+      "normalized_name": "thunderbay",
+      "MUNID": "58004",
+      "boundary_name": "CITY OF THUNDER BAY",
+      "candidate_ids_before_override": [
+        "58004"
+      ],
+      "method": "unique_normalized_name"
+    },
+    {
+      "municipality": "Toronto",
+      "normalized_name": "toronto",
+      "MUNID": "20002",
+      "boundary_name": "CITY OF TORONTO",
+      "candidate_ids_before_override": [
+        "20002"
+      ],
+      "method": "unique_normalized_name"
+    },
+    {
+      "municipality": "Vaughan",
+      "normalized_name": "vaughan",
+      "MUNID": "19028",
+      "boundary_name": "CITY OF VAUGHAN",
+      "candidate_ids_before_override": [
+        "19028"
+      ],
+      "method": "unique_normalized_name"
+    },
+    {
+      "municipality": "Waterloo",
+      "normalized_name": "waterloo",
+      "MUNID": "30016",
+      "boundary_name": "CITY OF WATERLOO",
+      "candidate_ids_before_override": [
+        "30016"
+      ],
+      "method": "unique_normalized_name"
+    },
+    {
+      "municipality": "Welland",
+      "normalized_name": "welland",
+      "MUNID": "26032",
+      "boundary_name": "CITY OF WELLAND",
+      "candidate_ids_before_override": [
+        "26032"
+      ],
+      "method": "unique_normalized_name"
+    },
+    {
+      "municipality": "Whitby",
+      "normalized_name": "whitby",
+      "MUNID": "18009",
+      "boundary_name": "TOWN OF WHITBY",
+      "candidate_ids_before_override": [
+        "18009"
+      ],
+      "method": "unique_normalized_name"
+    },
+    {
+      "municipality": "Whitchurch-Stouffville",
+      "normalized_name": "whitchurchstouffville",
+      "MUNID": "19044",
+      "boundary_name": "TOWN OF WHITCHURCH-STOUFFVILLE",
+      "candidate_ids_before_override": [
+        "19044"
+      ],
+      "method": "unique_normalized_name"
+    },
+    {
+      "municipality": "Windsor",
+      "normalized_name": "windsor",
+      "MUNID": "37039",
+      "boundary_name": "CITY OF WINDSOR",
+      "candidate_ids_before_override": [
+        "37039"
+      ],
+      "method": "unique_normalized_name"
+    },
+    {
+      "municipality": "Woodstock",
+      "normalized_name": "woodstock",
+      "MUNID": "32042",
+      "boundary_name": "CITY OF WOODSTOCK",
+      "candidate_ids_before_override": [
+        "32042"
+      ],
+      "method": "unique_normalized_name"
+    }
+  ],
+  "valid": true,
+  "boundary_vintage": "Current GeoHub snapshot, not a reconstructed historical boundary",
+  "optional_cmhc_comparison": "Unavailable at compatible municipal granularity in the ingested source; no bed-dependent classifications inferred",
+  "purpose": "Residential-only counterfactual and official BFF allocations",
+  "targets_validated_in_comparison": 4,
+  "counterfactual_not_official_funding_decision": true
+}

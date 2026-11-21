@@ -1,0 +1,13 @@
+{
+  "year": 2025,
+  "with_targets": 50,
+  "award_confirmed": 18,
+  "numeric_coverage": 2,
+  "met_80pct_calculated": 1,
+  "below_80pct_calculated": 1,
+  "met_100pct_calculated": 1,
+  "unknown": 31,
+  "without_targets": 364,
+  "complete_performance_dataset": false,
+  "note": "Awards and numeric performance are distinct measures. Unconfirmed does not mean below 80%. Municipal reports can precede final provincial reconciliation."
+}

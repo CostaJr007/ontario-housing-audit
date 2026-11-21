@@ -1,0 +1,32 @@
+{
+  "year": 2025,
+  "program_cohort": 50,
+  "boundary_municipalities": 414,
+  "starts_coverage": 49,
+  "starts_missing": [
+    "Woodstock"
+  ],
+  "starts_single": 6677,
+  "starts_semi": 691,
+  "starts_row": 7665,
+  "starts_apartment_other": 38999,
+  "starts_total": 54032,
+  "starts_houses": 15033,
+  "completions_coverage": 42,
+  "completions_missing": [
+    "Chatham-Kent",
+    "Haldimand County",
+    "Kawartha Lakes",
+    "Norfolk County",
+    "North Bay",
+    "Sarnia",
+    "Sault Ste. Marie",
+    "Woodstock"
+  ],
+  "completions_single": 8153,
+  "completions_semi": 726,
+  "completions_row": 8972,
+  "completions_apartment_other": 42935,
+  "completions_total": 60786,
+  "completions_houses": 17851
+}

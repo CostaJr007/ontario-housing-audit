@@ -1,0 +1,17 @@
+{
+  "year": 2024,
+  "source_url": "https://www.ontario.ca/page/tracking-housing-supply-progress",
+  "source_updated": "2025-12-15",
+  "accessed_date": "2026-11-20",
+  "capture_method": "Manual transcription from official tracker text returned by web search; not a downloaded CMHC extract",
+  "geography": "Ontario province",
+  "target": 125000,
+  "official_progress": 94908,
+  "components": {
+    "housing_starts_tracker_reviewed": 73617,
+    "additional_residential_units": 14381,
+    "long_term_care_beds": 2278,
+    "postsecondary_student_beds": 2807,
+    "congregate_retirement_home_suites": 1825
+  }
+}

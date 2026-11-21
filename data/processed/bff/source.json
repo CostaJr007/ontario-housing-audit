@@ -1,0 +1,12 @@
+{
+  "year": 2024,
+  "available_complete_years": [
+    2023,
+    2024
+  ],
+  "source_url": "https://data.ontario.ca/dataset/77ac513f-a65a-4cf0-b889-31be6ddb6f46/resource/3bb04ba5-2445-44e0-9d2c-8a25dd1b18e6/download/ontarios_housing_supply_-_january_december_2024_-_en.csv",
+  "raw_snapshot": "data/raw/ontario/housing_2024.csv",
+  "source_sha256": "7fdbc6e99f577f751dd458de22f2b63d6c7fbe092bc14ad73f44e57388fbca9a",
+  "measure": "Official total housing progress; includes categories beyond CMHC housing starts",
+  "municipal_cmhc_components_available": false
+}
