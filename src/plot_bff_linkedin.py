@@ -15,7 +15,7 @@ def render(geo, province, mapped, summary):
     colors = geo['MUNID'].map(lambda mid: blue if mid in recipients else '#d6dce0')
     fig = plt.figure(figsize=(10.8, 13.5), facecolor=bg)
     fig.text(.055, .957, 'ONTARIO  /  BUILDING FASTER FUND', fontsize=13, weight='bold', color=muted)
-    fig.text(.05, .92, f"{summary['award_confirmed']} of {summary['with_targets']}", fontsize=77, weight='bold', color=ink, va='top')
+    fig.text(.05, .92, f"Only {summary['award_confirmed']} of {summary['with_targets']}", fontsize=66, weight='bold', color=ink, va='top')
     fig.text(.055, .805, 'targeted municipalities\nhad funding confirmed.', fontsize=30, weight='bold', color=ink, va='top', linespacing=1.1)
     fig.text(.055, .707, '2025 performance · October 5, 2026 update', fontsize=15, color=muted)
     full = fig.add_axes((.025, .33, .29, .32))
